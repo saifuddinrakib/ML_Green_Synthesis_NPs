@@ -1,0 +1,497 @@
+Reference Info,,,,Nanoparticle Info,,,Synthesis Parameters,,,,,,,,,Characterization Results,,,,,Antibacterial Data,,,,,
+S/N,First Author,Year,DOI / Source,"NP Type
+(e.g. ZrO2, ZnO)","Plant Name
+(Scientific)","Plant Part
+(leaf/seed/fruit/root)","Precursor
+Chemical","Precursor
+Conc. (M)","Extract
+Vol. (mL)","Precursor
+Vol. (mL)","Synthesis
+Temp. (°C)","Heating
+Duration (h)","Stirring
+Rate (RPM)",pH,"Calcination
+Temp. (°C)","Avg. Particle
+Size (nm)",Morphology,"Crystallinity
+(%)","Crystalline
+Size (nm)","Bandgap
+(eV)","Bacteria
+Tested","Gram
+Type (+/-)","Bacterial Conc.
+(CFU/mL)",Test Method,"Zone of
+Inhibition (mm)","MIC
+(µg/mL)"
+1,Rabi S.A.,2026,10.1016/j.mtcomm.2026.116534,Fe?O?,Lagenaria siceraria,Leaf,FeCl?·6H?O,0.01,50,50,25 ± 2,,,,,,Spherical,,23.74 ± 1.52,2.54,Serratia marcescens,?,10?,Agar well diffusion,0.5 ± 0.04 (20 µg/mL),10
+2,Sunilkumar D.,2026,10.1016/j.rechem.2026.103929,Ag?O,Polyscias scutellaria,Leaf,AgNO?,0.0294*,10,100,70,2,,11,600,,"Irregular spherical, porous, highly agglomerated",,9.38,,,,,,,
+3,K. M. Rahatun Nayeem,2026,10.1016/j.sajce.2026.100958,ZnO,Citrus maxima,peels,Zn(NO3)2?6H2O,0.149,45,45,,,,,450,30.16,Spherical,,16.77,3.483,E. coli,-,10? to 10?,Disk diffusion,9,
+4,K. M. Rahatun Nayeem,2026,10.1016/j.sajce.2026.100958,ZnO,Citrus maxima,peels,Zn(NO3)2?6H2O,0.149,45,45,,,,,450,30.16,Spherical,,16.77,3.483,S. aureus,+,10? to 10?,Disk diffusion,9,
+5,Fezile Motsoene,2026,10.1016/j.surfin.2026.110581,CeO2,Aloe arborescens,leaf sap,Ce(NO3)3?6H2O,0.001,90,10,60,3,,9.02,,66-130,Spherical,,,3.26,Pseudomonas aeruginosa,-,1.0 × 10?,Kirby-Bauer Disk diffusion,41.96,80
+6,Fezile Motsoene,2026,10.1016/j.surfin.2026.110581,CeO2,Aloe arborescens,leaf sap,Ce(NO3)3?6H2O,0.001,90,10,60,3,,9.02,,66-130,Spherical,,,3.26,Staphylococcus aureus,+,5.0 × 10?,Kirby-Bauer Disk diffusion,22.65,80
+7,Bakhshi R.,2026,10.1016/j.carpta.2026.101279,Dextrin-coated Ni–MnO?,Artemisia absinthium,Aerial,"Dextrin +
+ Ni–MnO? NCs","Mn: 0.555;
+ Ni: 0.0137",30,20,80,5,,,,,"Compact, 
+continuous surface",,,,,,,,,
+8,Singh A.,2026,10.1016/j.efmat.2026.08.006,Fe–Ni bimetallic NPs,Ocimum tenuiflorum,Leaf,FeCl? + Ni(NO?)?,1.0 × 10?³ (each),,50,60,3,,,,,Cubic to quasi-spherical,,~44,,,,,,,
+9,Rustam R.M.,2026,10.1016/j.nxmate.2026.103658,AgNPs,Centella asiatica,Leaf,AgNO?,0.0015,2,40,45,48,,9,,113.41,Predominantly spherical,38.72,18.76,,,,,,,
+10,Vanga S.,2026,10.1016/j.nxnano.2026.100716,ZnO,Quercus infectoria,Gall,ZnSO?·7H?O,0.01,,,79,2,600,7.9,,32.76,"Spherical to near-spherical, 
+moderate aggregation",,,,,,,,,
+11,Kumar R.,2026,10.1016/j.nwnano.2026.100222,Ag-doped CoFe?O?,Bombax ceiba,Flower,"Co(NO?)?·6H?O,
+ Fe(NO?)?·9H?O, AgNO?, 
+citric acid",,,,100,4–5,100,~7,700,,"Compact, 
+densely packed, layered",,70 ± 4 ,,,,,,,
+12,Kumar R.,2026,10.1016/j.nwnano.2026.100222,Ag-doped CoFe?O?,Bombax ceiba,Flower,"Co(NO?)?·6H?O,
+Fe(NO?)?·9H?O, 
+AgNO?",,150,,100,4–5,100,~7,700,,"Compact, 
+intergrown, slightly heterogeneous",,43 ± 2 ,,,,,,,
+13,Ramya M.,2026,10.1016/j.nxnano.2026.100901,Ag (in arrowroot starch film),Psidium guajava L.,leaf,AgNO3,0.001,1,20,,,,5,,,"Agglomerates, small and large, dispersed in starch matrix (TEM); SAED ring pattern",,,,,,,,,
+14,Awad W.M.,2026,10.1016/j.physo.2026.100504,Se (in Cs/PVP film with linezolid),Withania somnifera,leaf,Selenious acid (H2SeO3),0.05,100,50,25 ± 2,2,,7.0 ± 0.2,,15,,,15,3.95,S. aureus (ATCC 25923); MRSA (ATCC 43300); E. coli (ATCC 25922); K. pneumoniae (ATCC 13883),+ ; + ; – ; –,"~1.5×10^8, diluted to 1×10^6","Agar disc diffusion (Mueller–Hinton agar, 6 mm discs, 24 h, 37 °C)",23 ; 15 ; 19 ; 25 (same order as bacteria),
+15,Tasnim T.,2026,10.1016/j.rinma.2026.101001,Ag,Neolamarckia cadamba,leaf,AgNO3,,100,100,60,0.5 + 24 (reaction/covered incubation),,,,23.94,"Quasi-spherical to oval, localized agglomeration (TEM)",,11.75–16.21 ,,,,,,,
+16,Parmar R.,2026,10.1016/j.nxmate.2026.103055,AgNPs,Ficus benghalensis (red leaf),leaf,AgNO3,0.001,10,,60,2,300,,,,,,,,Enterococcus sp.; P. aeruginosa; S. aureus; E. coli,+ ; – ; + ; –,Log-phase inoculum (number not given),"Agar well diffusion (MHA, 10 mg/mL extract; NP suspension 0.20 mg/mL; vancomycin control)",14.9 ; 0 ; 13.6 ; 9.65 (same order as bacteria),
+17,Alharbi N.,2026,10.1016/j.jgeb.2026.100815,ZnO,Peganum harmala,seed,Zinc acetate dihydrate (12.6 g),,,400,50,,,,,119.1,Faceted polyhedral (TEM),,,,,,,,,
+18,Favarin L.M.M.,2026,10.1016/j.jwpe.2026.111013,Nb2O5,Carya illinoinensis (pecan),nutshell,NbCl5,0.1,50,50,,,300,,600,,Pseudohexagonal crystalline phase (XRD); no SEM/TEM,,21.6,3,,,,,,
+19,Baidoo I.,2026,10.1016/j.biopha.2026.119572,Ag,Senna didymobotrya,leaf,AgNO3,0.001,5,10,Ambient (not specified),24,150,,,39,Spherical (TEM/SEM),,,,,,,,,
+20,Nalweyiso A.,2026,10.1016/j.nxnano.2026.100673,nZVI (zero-valent iron),Physalis peruviana (Cape gooseberry; name inferred from reference list),fruit,FeCl3,0.5,80,40,,,,10–12,,70,Spherical (assumed in model),,,,,,,,,
+21,Nayeem K.M.R.,2026,10.1016/j.sajce.2026.100958,Ag/Co co-doped ZnO (4%),Citrus maxima (pomelo),peel,Zn(NO3)2·6H2O (2.0 g),,45,,Ambient 24 h; dried 150 °C,,,4.2,450,35.25,"Mix of columnar, globular, nearly spherical particles; agglomerated (SEM)",76,20.35,3.371,E. coli; S. aureus,– ; +,10^5–10^6,"Kirby–Bauer disk diffusion (Mueller–Hinton agar, 35 °C, 24 h)",16 ; 21 (at 400 µg/mL),
+22,Sathyamoorthy S.,2026,10.1016/j.nxnano.2026.100785,CuO,Girardinia diversifolia,leaf,CuSO4·5H2O,0.12765,20.9,,60,2,300,9.99,,63.3,"Hexagonal, mostly agglomerated (FESEM)",,11.5,,MRSA (MTCC 1430); A. baumannii (MTCC 1425),+ ; –,,"Modified tube method, crystal violet (antibiofilm, not zone assay)",,
+23,Jani M.,2026,10.1016/j.nxmate.2026.102384,TiO2 (rutile),Citrus limon,fruit (juice),Titanium(IV) isopropoxide (TTIP),,10,10,200,18,,,500,,"Faceted, slightly elongated, aggregated (TEM)",,38.99,3.12,,,,,,
+24,Motsoene F.,2026,10.1016/j.surfin.2026.110581,CeO2,Aloe arborescens,Leaf (inner gel),Cerium(III) nitrate hexahydrate,0.001,90,10,60,3,,9.02,,2-7 (TEM core size range),Spherical; agglomerated in FESEM (66-130 nm),,,3.26,Pseudomonas aeruginosa ATCC 27853,-,10000000,"Disk diffusion (Kirby-Bauer, CeO2 at 80 ug/mL); MIC by broth growth kinetics (5-80 ug/mL)",41.96,80
+25,Omer R.M.,2026,10.1016/j.rineng.2026.111427,NiO,Eucalyptus (species not stated),Leaf,Nickel(II) chloride hexahydrate,0.001,20,30,80,4,,,"350, 450, 550",26.5,Predominantly spherical; slight agglomeration (SEM),,26.5,3.72,,,,,,
+26,Shaik D.P.M.D.,2026,10.1016/j.nxnano.2026.100811,Co3O4,Punica granatum,Fruit peel,Cobalt(II) nitrate hexahydrate,0.1,20,50,80,2,,,400,185,"Quasi-spherical, smooth surface; moderate agglomeration (FESEM)",,28,1.83,,,,,,
+27,Zhu S.,2026,10.1016/j.eti.2026.105180,Ag,Taraxacum officinale,Leaf,Silver nitrate (AgNO3),0.01,100,100,60,2,300,5.6-6.0 (unadjusted); 5.2-5.5 after reaction,,23.14,Predominantly spherical; few triangular particles (TEM),,20.9,,Escherichia coli ATCC 25922,-,1000000,Agar well diffusion (CLSI M100; 100 uL of 10x diluted DAS); MIC,12.87,38
+28,Tudu P.,2026,10.1016/j.nxmate.2026.102934,CdS ,Bauhinia ,,Cd(NO?)?·4H?O + Na?S ,0.05,| 3 ,50 + 50 ,70,5,450,8,,,Spherical/agglomerated | ,,3.539,2.3,5 species ,,,Agar well diffusion | ,,
+29,Kularia G.,2026,10.1016/j.nxmate.2026.102283 | Same,AgNPs | AgNPs,Psidium guajava | Azadirachta indica,,AgNO? | AgNO?,0.001 | 0.001,,,40 | 40,48 (reaction completion/settling) | 48,400 | 400,,,22–23 | 22–23,Mostly spherical | Mostly spherical,,11.01 | 11.02,3.57 | 3.47,"E. coli, S. aureus | E. coli, S. aureus",,,Agar well diffusion | Agar well diffusion,"15, 9 | 15, 11",
+30,Islam M.R.,2026,10.1016/j.sajce.2026.100997,MgO,Colocasia esculenta,Leaf,Mg(NO?)?·6H?O,,42.5,,60,1,600,,450,29.23,"Quasi-spherical, cauliflower-like aggregates",,23.148,5.11,E. coli; S. aureus,?; +,2.5 × 10?,Agar well diffusion,19.80 (E. coli); 17.10 (S. aureus),90 (E. coli); 110 (S. aureus)
+31,Islam M.R.,2026,10.1016/j.sajce.2026.100997,Mn-MgO,Colocasia esculenta,Leaf,Mg(NO?)?·6H?O + MnSO?·H?O,,42.5,,60,1,600,,450,27.27,"Compact, irregular",,,5.09,E. coli; S. aureus,?; +,2.5 × 10?,Agar well diffusion,,
+32,Islam M.R.,2026,10.1016/j.sajce.2026.100997,Mn-MgO,Colocasia esculenta,Leaf,Mg(NO?)?·6H?O + MnSO?·H?O,,42.5,,60,1,600,,450,26.08,"Fine nanograins, dense aggregates",,,5.081,E. coli; S. aureus,?; +,2.5 × 10?,Agar well diffusion,,
+33,Islam M.R.,2026,10.1016/j.sajce.2026.100997,Mn-MgO,Colocasia esculenta,Leaf,Mg(NO?)?·6H?O + MnSO?·H?O,,42.5,,60,1,600,,450,24.95,Sheet/flake-like and agglomerated,,14.458,5.07,E. coli; S. aureus,?; +,2.5 × 10?,Agar well diffusion,21.90 (E. coli); 19.60 (S. aureus),50 (E. coli); 60 (S. aureus)
+34,Piryaei M.,2026,10.1016/j.afres.2026.102268,TiO?,Camellia sinensis,Leaf,TiCl?,0.5,100,100,Room temperature,2,800,8–9,450,,,,,,,,,,,
+35,Kusdul E.,2026,10.1016/j.clwat.2026.100229,AgNPs,Paliurus spina-christi,Fruit,AgNO?,0.001,,,,,,,,35,"Predominantly spherical, uniform",,6.05,,,,,,,
+36,Alturo-Walteros J.D.,2026,10.1016/j.nxmate.2026.102023,AuNPs,Curcuma longa (curcumin source),,HAuCl?·3H?O,0.004,0.12,2.5,Room temperature,,,9–10,,39.9,"Predominantly spherical, well-dispersed",,24.7,,,,,,,
+37,Alturo-Walteros J.D.,2026,10.1016/j.nxmate.2026.102023,AuNPs,,,HAuCl?·3H?O,0.004,0.12,2.5,Room temperature,,,9–10,,90.6,Irregular distribution,,16.3,,,,,,,
+38,Alturo-Walteros J.D.,2026,10.1016/j.nxmate.2026.102023,AuNPs,,,HAuCl?·3H?O,0.004,0.12,2.5,Room temperature,,,9–10,,51.1,"Uniform, spherical",,21.5,,,,,,,
+39,Paudel P.,2026,10.1016/j.nxmate.2026.102901,ZnO,Cucurbita pepo,Seed,Zn(CH?COO)?·2H?O,0.1,30,,50,2,1000,,400,27.26,"Spherical-textured, highly agglomerated",,14.84,2.46,,,,,,
+40,Paudel P.,2026,10.1016/j.nxmate.2026.102901,ZnO,,,Zn(CH?COO)?·2H?O,1.3,,,,2,1200,,400,34.69,"Spherical-textured, highly agglomerated",,23.89,3.13,,,,,,
+41,Juthee S.A.,2026,10.1016/j.plana.2026.100339,AgNPs,Psidium guajava,Leaf,AgNO?,1,10,20,,,600,,,36.7–48.4,Predominantly spherical,,16.25,,,,,,,
+42,Juthee S.A.,2026,10.1016/j.plana.2026.100339,CuNPs,Psidium guajava,Leaf,CuSO?,1,10,30,30,,,,,,,,19.45,,,,,,,
+43,Thongpool V.,2026,10.1016/j.rinp.2026.108689,ZnO,Mitragyna speciosa,Leaf,Zn(NO?)?·6H?O,,50,100,,1,,8,400,63.84 ± 22.10,"Irregular, clustered; mixed rod-like and spherical",,39.1–42.6,3.03,E. coli ATCC 8739; S. aureus ATCC 6538p,?; +,2.79 × 10?; 3.30 × 10?,"ASTM E2149-13a, dynamic contact",,
+44,Yadava Y.P.,2026,10.1016/j.nxmate.2026.103013,CuONPs,Azadirachta indica,Leaf,CuSO?·5H?O,0.1,,,60,2,800,,,,Spherical,,,,,,,,,
+45,Yadava Y.P.,2026,10.1016/j.nxmate.2026.103013,CuONPs,Lantana camara,Leaf,CuSO?·5H?O,0.1,,,60,2,800,,,,Spherical,,,,,,,,,
+46,Yadava Y.P.,2026,10.1016/j.nxmate.2026.103013,CuONPs,Senna spectabilis,Leaf,CuSO?·5H?O,0.1,,,60,2,800,,,,Spherical,,,,,,,,,
+47,Yadava Y.P.,2026,10.1016/j.nxmate.2026.103013,CuONPs,Tectona grandis,Leaf,CuSO?·5H?O,0.1,,,60,2,800,,,,Spherical,,,,,,,,,
+48,Kasim S.F.,2026,10.1016/j.nxmate.2026.102935,AgNPs,Momordica charantia,Fruit,,,,,,,,,,36.7–48.4,Predominantly spherical,,,,,,,,,
+49,Nazir A.,2026,10.1016/j.plana.2026.100327,GONPs,Musa spp.,Peel,Graphite,,,,,,,,,,"Wrinkled, overlapping, layered nanosheets; thin and rippled",,,,,,,,,
+50,Gokul T.A.,2026,10.1016/j.mtcomm.2026.115708,AgNPs,Pleurotus sajor-caju,Fruiting bodies,AgNO?,0.1,,,60–80,1,,,,189.8 ± 14.3,,,,,B. cereus; S. aureus; E. coli; K. pneumoniae,+; +; ?; ?,,Agar-well diffusion,10.1–21.3 (concentration- and organism-dependent),
+51,Balaji M.B.,2026,10.1016/j.nxnano.2026.100708,BS-CNPs,Boswellia serrata,,Chitosan,1 mM,,,Room temperature,,,,,182.4 ± 14.6 (DLS); 50–150 (TEM),Spherical to sub-spherical,,,3.12,,,,,,
+52,Sankar M.,2026,10.1016/j.nxmate.2026.102356,ZnO,Kalanchoe pinnata,Leaf,Zn(NO?)?·6H?O,,50,,60–80,,,,100,40–50,"Spherical, flower-like clustered structures",,44.4,3.1,E. coli; B. subtilis; S. aureus; S. typhi; P. aeruginosa,?; +; +; ?; ?,2.0 × 10?,Agar disc diffusion,15 (E. coli); 12 (B. subtilis); 14 (S. aureus); 12 (S. typhi); 15 (P. aeruginosa),
+53,Sankar M.,2026,10.1016/j.nxmate.2026.102356,ZnO,Eclipta prostrata,Leaf,Zn(NO?)?·6H?O,,50,,60–80,,,,100,40–50,"Spherical, flower-like clustered structures",,44.6,3.6,E. coli; B. subtilis; S. aureus; S. typhi; P. aeruginosa,?; +; +; ?; ?,2.0 × 10?,Agar disc diffusion,10 (E. coli); 11 (B. subtilis); 12 (S. aureus); 10 (S. typhi); 14 (P. aeruginosa),
+54,Waheed N.,2026,10.1016/j.marpolbul.2026.119858,AgNPs,Dryopteris expansa,Fronds,AgNO?,,10,,100,,,,,85,Approximately triangular,,,,,,,,,
+55,Anwer U.N.,2026,10.1016/j.nxmate.2026.102192,Ag–CuO,Nyctanthes arbor-tristis,Leaf,AgNO? + CuSO?·5H?O,0.01 (AgNO?); 0.1 (CuSO?·5H?O),100,100,37,4,,,,28.5 ± 8.6 ,Spherical to quasi-spherical; agglomerated,,29.83,2.35,E. coli; K. pneumoniae; E. faecalis; S. aureus,?; ?; +; +,1 × 10?,Agar disc diffusion / well-based diffusion,8–9 (E. coli); 6–8 (K. pneumoniae); 7–9 (E. faecalis); 7–10 (S. aureus),
+56,Shuvo A.N.,2026,10.1016/j.nxmate.2026.102810,ZnO,Codiaeum variegatum,Leaf,Zn(CH?COO)?·2H?O,,200,,,,,12,600,41.31,Predominantly quasi-spherical; moderately aggregated,,18.39,,E. coli; S. aureus,?; +,,Agar-well diffusion,8–13.51 (E. coli); 6–10 (S. aureus),
+57,Kizhakkeveettil N.T.,2026,10.1016/j.rsurfi.2026.100856,AgAu BNPs,Colocasia esculenta,Stem,AgNO? + HAuCl?,0.005,3,16,~28,,,6–7,,10.5 ± 5,Spherical and polyhedral,,,,,,,,,
+58,Kizhakkeveettil N.T.,2026,10.1016/j.rsurfi.2026.100856,AgCo BNPs,Colocasia esculenta,Stem,AgNO? + Co(NO?)?·6H?O,0.005,3,16,~28,,,6–7,,8.2 ± 3,Predominantly spherical,,,,,,,,,
+59,Kalpana J.,2026,10.1016/j.scenv.2026.100324,CuNPs,Limonia acidissima,Fruit pulp,Cu(NO?)?·3H?O,0.01,20,20,,0.05 (180 seconds),,7,,8 ± 2,Spherical,,8.8,,S. aureus; E. coli; P. aeruginosa; B. cereus,+; ?; ?; +,,Agar-well diffusion,2.0; 2.2; 2.5; 3.8 (respectively; at 20 µg/mL),
+60,Zola E.N.,2026,10.1016/j.nxnano.2026.100415,AgNPs,Lippia multiflora,Leaf,AgNO?,0.005,1,5,Room temperature,,,,,20–50,Spherical,,,,,,,,,
+61,Zola E.N.,2026,10.1016/j.nxnano.2026.100415,AgNPs,Ocimum gratissimum,Leaf,AgNO?,0.005,1,5,Room temperature,,,,,20–50,Spherical,,,,,,,,,
+62,Zola E.N.,2026,10.1016/j.nxnano.2026.100415,AgNPs,Tetradenia riparia,Leaf,AgNO?,0.005,1,9,Room temperature,,,,,20–50,Spherical,,,,,,,,,
+63,Lubis M.F.,2026,10.1016/j.nxmate.2026.102652,ZnO,Lansium domesticum,Fruit peel,Zn(NO?)?·6H?O,0.091,20,50,50,0.167 (10 minutes),,10,500,40–80,Quasi-spherical; moderately agglomerated,,43,,,,,,,
+64,Tonmoy M.A.R.,2026,10.1016/j.sajce.2026.100919,TiO?,Saccharum spontaneum,Stem,Titanium isopropoxide (TTIP),,100,10,50,4,,,400,24.28,"Spherical, agglomerated",,Below 5.5,3.21,,,,,,
+65,Tonmoy M.A.R.,2026,10.1016/j.sajce.2026.100919,1% Ag–1% Al co-doped TiO?,Saccharum spontaneum,Stem,TTIP + AgNO? + Al(NO?)?·9H?O,,100,10,50,4,800,,400,29.47,"Spherical, agglomerated",,Below 5.5,3.14,,,,,,
+66,Tonmoy M.A.R.,2026,10.1016/j.sajce.2026.100919,2% Ag–1% Al co-doped TiO?,Saccharum spontaneum,Stem,TTIP + AgNO? + Al(NO?)?·9H?O,,100,10,50,4,800,,400,34.91,"Spherical, agglomerated",,Below 5.5,3.09,,,,,,
+67,Tonmoy M.A.R.,2026,10.1016/j.sajce.2026.100919,3% Ag–1% Al co-doped TiO?,Saccharum spontaneum,Stem,TTIP + AgNO? + Al(NO?)?·9H?O,,100,10,50,4,800,,400,42.97,"Spherical, agglomerated",,Below 5.5,2.96,,,,,,
+68,Piryaei M.,2026,10.1016/j.sbsr.2026.100988,ZnO,Froriepia subpinnata,Leaf,Zn(NO?)?·6H?O,0.1,5–10,50,75,2,,,,,,,,,E. coli; S. aureus,?; +,,Disc diffusion (ACNB composite film),15.17 (E. coli); 13.83 (S. aureus) — ACNB7% composite film,
+69,Assala Torche,2026,https://doi.org/10.1016/j.lwt.2026.119105,ZnO,Plam,Seed / date palm pit,Zinc acetate,0.2,100,,60,2,800,,450,63.73,Hexagonal; slight agglomeration,,,,Bacillus cereus; Escherichia coli; Staphylococcus aureus,+;-;+,1.5 × 10^8,Disc diffusion (ZnO NPs); ,0.5 mg/mL: B. cereus 1.33 ± 0.57; E. coli 4.33 ± 1.15; ,
+70,Jian Zhang,2026,https://doi.org/10.1016/j.mtbio.2026.102983,AgNPs,,,Silver nitrate (AgNO?),2 mM,,,37,48,200,,,27.3,"Spherical, triangular and polygonal",,,,Streptococcus mutans,+,5 × 10^5,Broth microdilution (MIC); time-kill and antibiofilm assays,,4
+71,Ali Hussain Alaa Al-Deen,2026,https://doi.org/10.1016/j.nxnano.2026.100427,Tricalcium silicate (C?S) NPs,Salvia officinalis,Leaf / sage,Calcium chloride hexahydrate (CaCl?·6H?O); sodium silicate (Na?SiO?),0.1 (each),50,50 + 50,Room temperature,1,Not stated,,,,Mostly spherical / irregular spherical; ,,,,Streptococcus mutans; Acinetobacter,+;-,,Agar well diffusion,15.4 ± 0.6 (S. mutans); 14.7 ± 0.5 (Acinetobacter) at 500 µg/mL; ,
+72,Amir Khan,2026,https://doi.org/10.1016/j.eti.2026.104816,CuO NPs,Polyalthia longifolia,Leaf,Copper sulphate (CuSO?),,,,,,,,,55–60,Quasi-spherical to slightly elongated; ,,,3.05,,,,Antifungal poison-food technique (not a bacterial assay),,
+73,Zaman Ageel Hammood,2026,https://doi.org/10.1016/j.dwt.2026.101689,Fe/Cd (MB-Fe/Cd nanocomposite),Conocarpus L.,Leaf,Ferric chloride (FeCl?); cadmium chloride (CdCl?),0.4 (each),100 (ethanol extract),150 + 150,Room temperature,0.5 h),Not stated,,1000,,,,,,,,,,,
+74,Melissa Santi,2026,https://doi.org/10.1016/j.mtnano.2026.100914,AuNPs,Hypericum perforatum (source of hypericin),,Tetrachloroauric(III) acid trihydrate (HAuCl?·3H?O),0.1 (gold); hypericin 0.2,,,30,24,,4.2–4.4,,16.5 ± 3.5,Spherical,,6.71,,,,,,,
+75,Melissa Santi,2026,https://doi.org/10.1016/j.mtnano.2026.100914,AgNPs,Hypericum perforatum (source of hypericin),,Silver nitrate (AgNO?),0.05 (silver); hypericin 0.2,,,100,24,,6.19 ? 5.1,,33 ± 7,Spherical,,5.13,,,,,,,
+76,Cynthia A. Gwada,2025,10.1039/D4RA08900F,Ag,"Ocimum gratissimum, Apium graveolens, Aloe arborescens",leaf,AgNO?,0.006,20,10,75,1,,,,"28.5 ± 6.3 nm for O. gratissimum, 20.2 ± 2.5 nm for A. graveolens,15.07 ± 3.8 nm for A. arborescens. ",predominantly spherical,,,,"E. coli and
+S. aureus",? and +,1 × 10^6,Agar well diffusion,"AgNP-AA, E. coli 17.5 ± 0.5 mm, S. aureus 14.5 ± 0.6 mm; AgNP-OG, 17.4 ± 0.3 and 12.8 ± 0.5 mm; AgNP-AG, 16.1 ± 0.3 and 16.4 ± 0.1 mm",
+77,Wael Dagher;,2025,10.1039/D5RA05214A,Ag,Ziziphus spina-christi,Leaf,AgNO?,0.008,,,30,,,,,,Spherical,,11,,"E. coli, 
+S. aureus","?, +",,diffusion antibacterial assay,13.76 ± 0.25 to 21.65 ± 0.34 mm for E. coli and 0 to 16.73 ± 0.21 mm for S. aureus.,
+78,Umakant Pradhan,2025,10.1039/D4NA01063A,Ag?O,Blumea sinuata,Leaf,AgNO?,0.02,80,20,room temperature,24,,7,,7.98,nearly spherical,,22.96,,Erwinia carotovora,?,,agar well diffusion,20.66,
+79,Fahimeh Golzarnezhad;,2025,10.1007/s42452-025-06623-z,ZnO,Cymbopogon olivieri,Leaf,zinc acetate dihydrate,,50,,80,,,11,,28,spherical,,,,Streptococcus pyogenes,,,agar well diffusion,,
+80,Mercy C. Ogwuegbu;,2025,10.1007/s43939-025-00230-w,ZnO,Platycladus orientalis,Leaf,ZnSO?·7H?O,,20,10,80,2,,10,400,,,,26.9,3.59,E. coli,?,1.5 × 10^6 ,agar well diffusion,,
+81,Shaveen De Mel;,2025,10.1038/s41598-025-08468-3,Ag,Magnolia alba,Leaf,AgNO?,0.01,1,9,95,0.5,,,,40,spherical,,,,E. coli,,,,16,
+82,Esma Nur Gecer,2025,10.1038/s41598-025-11970-3,Ag,Centaurea saligna,Leaf,AgNO?,0.001,,50,55,2,,,,16.2,,,18.5,,Bacillus subtilis,,10^5–10^6,,,21
+83,Nahed Ahmed Hussien,2025,10.2147/IJN.S507214,ZnO,Syzygium aromaticum,flower bud,zinc acetate dihydrate,0.01,5,95,70,1,,8,,,non-uniform,,,,E. coli ATCC 8739,_,5 × 10^5,broth microdilution,,250
+84,Wubshet Mekonnen Girma,2025,10.1039/D4MA01279H,MgO,Verbascum sinaiticum,Leaf,MgCl?·6H?O,0.1,20,30,,1,,,,,,,15.4,,E. coli,_,,disc diffusion,,
+85,Mekuriaw Birhan,2025,10.1007/s42452-025-07669-9,ZnO,Rhamnus prinoides,Leaf,Zn(NO?)?·6H?O,0.1,20,100,,,,,400,,,,4.72,,E. coli,_,,disc diffusion,22,
+86,Noor Akhras,2025,10.3390/foods14142449,ZnO,Artemisia absinthium,Not specified,Zn(NO?)?·6H?O,0.05,,,37,24,,,,36.6,,,,,E. coli ATCC 25922,?,,Well diffusion,14,"1,250"
+87,"	Tsegahun",2025,"	10.1186/s11671-025-04260-4",ZnO,Azadirachta indica,Leaf,Zinc nitrate hexahydrate,0.004,2,25,60,1,,9,400,,,86.19,19.16,3.35,E. coli,_,,Disc diffusion,18,
+88, Sharma K.,2025,10.1371/journal.pone.0321172,Ag,Centella asiatica,Leaf,Silver nitrate (AgNO?),0.001,,,37,24,,11–12,,20.6,Spherical,,9,,, +,0.5 McFarland,Disc diffusion,5,
+89,Elabbasy M.T.,2025,10.3390/nano15050369,ZnO,Stevia rebaudiana,Leaf,Zinc acetate,0.1,,100,70,3,500,10,,15.7,"Quasi-spherical,",,,,Staphylococcus aureus, +,1.5 × 10?,Disk diffusion,,
+90,Selim S.,2025,10.1186/s40643-025-00848-x,MgO-ZnO Nanocomposite,Pluchea indica,Leaf,Zinc acetate dihydrate + Magnesium nitrate hexahydrate,0.001,20,120,Room temperature,,,,,51,Spherical,,41,,,,,,,
+91,Fereydani M.,2025,10.1016/j.mex.2025.103363,Ag,Cuscuta epithymum,Not specified,AgNO?,0.002,75,25,25,,,,,15–60,Spherical,,Approximately 29,,Escherichia coli,_,,Disk diffusion,8,
+92,Selim S.,2025,10.1371/journal.pone.0332367,MgO,Watermelon (scientific name not reported in the paper),Fruit peel ,Mg(NO?)?·6H?O,0.001,50,50,80,4,500,,200,6–17,Spherical,,,,,,,,,
+93,Rusli R.K.,2025,10.14202/vetworld.2025.263-269,ZnO,Garcinia mangostana L.,Leaf,Zn(NO?)?·6H?O,,50,,70,,,,300,641.97 ± 270.35 ,,,,,,,,,,
+94,"	Chanthapong P.",2025,10.3390/nano15131011,"	ZnO","	Centella asiatica","	Leaf", Zinc acetate dihydrate,0.1,20,80,Room temperature,,,12,,22.5,Quasi-spherical,,19.8,3.41,Xanthomonas oryzae pv. oryzae (Xoo),_,,Disk Diffusion,1 × 10?,8
+95,Motasim Ismael,2025,10.1016/j.biotno.2025.07.003,Ag,"	Sida cuneifolia","	Leaf",AgNO?,0.001,,,70,4,,,,9.9,"	Spherical",,,,Escherichia coli ATCC25922,_,,Disk diffusion assay,10–16.6,15.62–31.25
+96,"	Khalid Z.",2025,"	10.1039/D5RA01882J","	Ag",Causonis trifolia,"	Leaf",AgNO?,0.01,10,50,,3 minutes,,,,19.2,Spherical,63.62,12.73,,,,,,18–28,
+97,"	Keskin C.",2025,10.2147/IJN.S511217,Ag,"	Anchusa officinalis",Leaf,AgNO?,0.001,125,500,22–25,30 minutes,,8,,28.5,Spherical,,27.06,,S. aureus ATCC 29213,positive,0.5 McFarland,,,0.5
+98,Boudagha S.E.I.,2025,"	10.1007/s12010-025-05390-2","	Ag","	Cynoglossum creticum","	Leaf",AgNO?,0.001,,,80,75 minutes,,,,32,Spherical,,24.3,,Escherichia coli ATCC 25922,_,5×10?,,,62.5
+99,"	Mekky A.E.",2025,10.1038/s41598-025-12457-x,"	SeNP",Dahlia pinnata L.,"	Tuberous root",Na?SeO?,0.001,50,50,25 ± 2°,24,200,8,,17.37,"	Spherical",,,,"	E. coli (MDR)",_,1×10?,"	Disk diffusion",,35
+100,"	Ahmed E.Z.",2025,"	10.1186/s12870-025-06954-4",SeNP,"	Ferula assa-foetida L.",Root,Na?SeO?,,50,,40,48,,6.5,,90.4,"	Spherical",,,,       E. coli,_,,,18,
+101,"	Moges W.",2025,10.1007/s43939-025-00221-x,Ag,"	Sida schimperiana","	Leaf",AgNO?,0.001,50,450,"	Room temperature",,,9,,,,,26.27,,      E. coli,_,,"	Disk diffusion",26.33,
+102,Gungure A.S.,2025,"	10.1007/s43939-025-00189-8",ZnO,"	Phragmanthera macrosolen L.","	Leaf",ZnCl?,0.4,20,20,90,,,3.5,350,42–47,"	Hexagonal",,47,3,E. coli,_,,"	Disk diffusion",,30
+103,Parmanik A.,2025,10.1007/s10856-025-06914-2,Fe?O?,"	Cyperus rotundus","	Root",FeCl?·6H?O,0.1,70,30,,,500,11,,24.40 ± 0.65,Spherical,,,,"	Pseudomonas aeruginosa",_,1×10?,,17.08,
+104,   Hossain M.R.,2025,"	10.1371/journal.pone.0335524",Ag,Brownlowia tersa,"	Leaf",AgNO?,0.005,10,90,32,10 minutes ,,,,,Predominantly spherical;,,,,"	Shigella flexneri",_,0.5 McFarland,Disk diffusion,10,1250
+105,Akhtari N.,2025,10.1038/s41598-025-92224-0,"	ZnO",Bunium persicum,Seed,"	Zinc nitrate",,10,,80,3,,,500,32.41 ± 0.06,Aggregated,,,,Escherichia coli (PTCC 1399),_,,Disk diffusion,25,
+106, Lekkala V.D.V.V.,2025,"	10.3390/nano15050381","	Ag","	Tinospora cordifolia",Leaf,AgNO?,0.003,10,100,Room temperature,,,,,168,Predominantly spherical;,,,,Pseudomonas aeruginosa (MDR),_,1.0 McFarland,Disk diffusion,~23,25
+107,"	Hossain M.R.",2025,10.1371/journal.pone.0335524, Ag,Brownlowia tersa,leaf,"	AgNO?",0.005,10,90,32,0.167 h,,,,,predominantly spherical;,,,,S. flexneri,_,1 × 10?,disk diffusion,10,1250
+108,Barik S.,2025,10.1007/s13205-025-04311-8,"	Ag / Ag?O",Bixa orellana (L.),"	Seed",AgNO?,0.001,10,90,80,3,,,,38.24,,,Ag: 10.95 nm; Ag?O: 16.98 nm,,S. flexneri,_,10?,Agar well diffusion,1.8,8
+109,"	Akhtar W.",2025,"	10.1186/s12870-025-07043-2","	Ag","	Mentha arvensis L.","	Leaf",AgNO?,0.01,50,50,25,,,7,,,Spherical and irregular;,,30.17,,"	Pseudomonas aeruginosa",_,,Disk diffusion,11,
+110,"	Sharma K.",2025,"	10.1371/journal.pone.0321172",Ag,"	Centella asiatica","	Stem",AgNO?,0.001,,,,,,11–12,,19.4,Spherical  ,,8,,"	Shigella sonnei",_,0.5 McFarland,Disk diffusion,19,
+111,"	Shrivastava S.K.",2025,10.1186/s11671-025-04262-2,"	Ag","	Punica granatum L.","	Flower (Petals)",AgNO?,0.01,10,100,65,75minutes,,,,27.33,"	Spherical",,17.81,,Escherichia coli,_,,Agar well diffusion,11.15,0.15
+112,"	Baraili R.",2025,"	10.1371/journal.pone.0320475","	ZnO",Catunaregam spinosa,Leaf,Zn(NO?)?·6H?O,0.13,100,5,60,1,,,400,22.08 ± 0.36,,,12.39 ± 3.84,3.24,Shigella sonnei,_,1.5×10?,Well diffusion,13,
+113,"	Alqahtani O.S.",2025,10.1371/journal.pone.0334685,ZnO,Zingiber officinale Roscoe,"	Peel",Zn(CH?COO)?·2H?O,0.1,60,,50,1,,10,,,,,24.67,,Escherichia coli,_,,Well diffusion,26,
+114,"	Akhras N.",2025,10.3390/foods14142449,ZnO,Artemisia absinthium L.,,Zn(NO?)?·6H?O,0.05,10,25,80,2,,8-12,,36.6,Spherical and granular,,,,Escherichia coli,_,0.5 McFarland,Well diffusion,14,
+115,"	Khan A.",2025,10.1186/s12870-025-06533-7, Ag,Withania coagulans,leaf;,AgNO3,0.001,,,60,4,,,,26.63,,,39.76,,K. pneumoniae,_,1×10?,Agar well diffusion,29,
+116,"	Ismael M.",2025,10.1016/j.biotno.2025.07.003.,Ag,Sida cuneifolia;,leaf,AgNO?; ,0.001,,,70,4,,,,9.9,"	Spherical",,,,E. coli ATCC25922,_,5×10?,Disc diffusion,16 ± 1.0,31.25
+117,Yüce M.,2025,10.1038/s41598-025-16692-0,Ag,Anemone coronaria,Bulb,AgNO?,0.001,4,,Room temperature,,,,,29,Spherical,,10,,E. coli (ATCC 25922),_,1×10?,Agar well diffusion,15,
+118,"	Alorfi H.",2025,10.3389/fnano.2025.1587084,"	Ag","	Forsskaolea tenacissima",Leaf,AgNO3,0.1,0.1,0.1,,,,,,9.8,"	Spherical",,,,. coli (ATCC 11775),_,1×10?–1×10?,Disc diffusion,"19 ± 0.2	",2.1
+119,Parmanik A.,2025,"	10.1007/s10856-025-06914-2",Fe?O?,Cyperus rotundus,root,FeCl?·6H?O,0.1,70,30,,,500,11,,,"	Spherical",,,,"P. aeruginosa,",_,1 × 10?,Disc diffusion,25.56 ± 1.07,
+120,"	Nanthakumar J.",2025,10.1039/D5RA05208D,"	ZnO","	Delonix elata",Leaf,"	Zinc acetate",,20,,50,,,12,400,,Spherical,,30.1,2.7,Escherichia coli,_,,Agar well diffusion,6.5 ± 0.71,
+121,"	Mersha T.B.",2025,"	10.1016/j.rechem.2025.102046",ZnO,Rumex nervosus Vahl, leaf; ,"	ZnSO4·H2O",,,,80,1.5,,,,,,,,,Escherichia coli,_,,Disc diffusion,16.6,
+122,"	Rahman A.",2025,10.1016/j.eti.2025.104347,"	TiO2","	Citrus limon",Fruit,Titanium (IV) oxide,0.000125,,,,,,,,37.5,"	Spherical",,,2.6,Clostridium perfringens (MDR),positve,1×10?,Agar well diffusion,"27 ± 0.5	",5
+123,Mortazavi-Derazkola S.,2025,10.1007/s00449-025-03193-7,ZnO–Ag; , Aesculus hippocastanum,fruit; ,Zn(NO3)2·6H2O + AgNO3,,10,10,,,,12,450,50–70,Spherical,,56.3,,"	K. pneumoniae (ATCC 9997)",-,1×10?,Broth microdilution,,125
+124,Sarwar K.,2025,"	10.1038/s41598-025-08839-w","	ZnO","	Moringa oleifera","	Leaf",Zn(NO3)2·6H2O + AgNO3,,,,,,,,400,50,"	Flower-like",,52.24,3.8,"P. aeruginosa,",_,,Disc diffusion,15,
+125,"	Rusli R.K.",2025,10.14202/vetworld.2025.263-269,"	ZnO","	Garcinia mangostana","	Leaf","	Zn(NO3)2·6H2O",,50,,70,,,,300,641.97,,,,,Salmonella Typhimurium,_,,"	Agar well diffusion",17.09,
+126,"	Bizuayehu T.",2025,"	10.1016/j.rechem.2025.102046",ZnO,Rumex nervosus Vahl,"	Leaf",ZnSO4·H2O,,,,80,1.5,,,,,,,,,Escherichia coli,_,,Disc diffusion,,
+127,"	Bachhar V.",2025,"	10.1016/j.jece.2025.116829","	AgFe","	Calyptocarpus vialis",,AgNO3 + Fe(NO3)3·9H2O,,,,,,,,,,,,,,Pseudomonas aeruginosa (MDR),_,,,35,
+128,"	Y?ld?r?m Ö. Ç.",2025,"	10.1016/j.bcab.2025.103688",MgO,"	Petroselinum crispum",Leaf,MgSO4·7H2O,,,,,,,,,75,,,,,"	Escherichia coli",_,,,,
+129,"	Kumie B.",2025,10.1016/j.sajce.2025.08.007,ZnO,"	Verbascum sinaiticum","	Leaf","	Zinc acetate",,,,,,,,,,,,52.9,,Klebsiella pneumoniae,_,,Disc diffusion,14.17,
+130,Boudagha S.E.I.,2025,"	10.1007/s12010-025-05390-2","	Ag",Cynoglossum creticum,Leaf,"	AgNO3",0.001,,,80,1.25,,5,,32,Spherical,,24.3,,Pseudomonas aeruginosa (MDR),_,5×10?,Broth microdilution,,31.25
+131,"	Akhras N.",2025,10.3390/foods14142449,"	ZnO","	Artemisia absinthium L.",,Zn(NO3)2·6H2O + AgNO3,0.05,10,25,80,1,,8–12,,36.6,"Spherical and granular
+",,,,"Escherichia coli	",_,1×10?,Broth microdilution + Well diffusion,"14.00 ± 2.56	",1250
+132,Lekkala V.D.V.V.,2025,"	10.3390/nano15050381",Ag,"	Tinospora cordifolia",Leaf,"	AgNO3",0.001–0.005,10,100,"	Room temperature",,,,,125,,,,,Pseudomonas aeruginosa ,_,3.2×10?,Kirby–Bauer + Agar dilution,,25
+133,"	Saeed M.",2025,"	10.3390/ph18050691",Ag,"	Hibiscus rosa-sinensis","	Flower","	AgNO?",0.001,,,25 ± 2,24,300,"	7.0 ± 0.2",,10–50,Spherical and oval,,,,Escherichia coli,_,1.5×10?,Agar well diffusion + Microdilution,"16 ± 3.05	",64
+134,Wahab S.,2025,"	10.1016/j.indcrop.2025.122033",Ag,Salvia rosmarinus,,AgNO?,0.001,10%,,50,1,,6,,31.34,Spherical ,,,,Pseudomonas aeruginosa,_,,,,32.5
+135,Abdussalam-Mohammed W.,2025,10.1016/j.inoche.2025.113893,Ag,"	Hyoscyamus muticus",Leaf,"	AgNO?",0.000981,1.5,20,"	Room temperature",,,9.1,,"	17.3 ± 4.5","	Spherical",,,,Acinetobacter baumannii,_,,Disk diffusion + Time-kill,19,
+136,"	Sharma K.",2025,10.1371/journal.pone.0321172,Ag,"	Centella asiatica","	Leaf",AgNO?,0.001,,,,,,11–12,,20.6,Spherical,,9,,Staphylococcus aureus,positive,,Disc diffusion,5,
+137,"	Ismael M.",2025,"	10.1016/j.biotno.2025.07.003",Ag,"	Sida cuneifolia",Leaf,AgNO?,0.001,2%,,70,4,,,,9.9 ± 5.1,"Spherical,",,,,E. coli ATCC 25922,_,5×10?,Disc diffusion,"16 ± 1.0	",31.25
+138,"	Manimehala U.",2025,"	10.1016/j.bbrc.2025.151963",CuO,Camellia sinensis,Leaf,CuSO?·5H?O,,,,,,,,,5.9,,,,,Escherichia coli,_,,,24,
+139,"	Hailemichael",2025,"	10.1038/s41598-025-10700-z",CuO,Plumbago zeylanica,"	Leaf",CuSO?·5H?O,0.005,1,2,80,2,,9,400,,Spherical,93.78,25.15,3.22,Klebsiella pneumoniae,_,,Agar well diffusion,16.5,
+140,"	Zahra",2025,"	10.1038/s41598-025-18448-2",Au,"	Salvia sclarea L.",Flower*,HAuCl?,0.001,10,50,Rm Temp,0.25,,10,,80.8,Semi-spherical,,11.2,,Escherichia coli,_,,Serial dilution,12.23,104.17
+141,Zinab,2025,10.1016/j.nano.2025.102841,Au,Pelargonium graveolens,"	Leaf",,,,,,,,,,41.5,"	Cubic",,,,Escherichia coli,_,,,,1.56
+142,Wasim,2025,10.1186/s12870-025-07043-2,Ag,Mentha arvensis,Leaf,AgNO?,0.01,50,50,25,14,,7,,30.86,Spherical,,30.17,,E. aerogenes,_,,,11.6,
+143,Gungure A.S.,2025,"	10.1007/s43939-025-00189-8","	ZnO",Phragmanthera macrosolen,"	Leaf",ZnCl?,0.4,20,20,90,2,,3.5,350,"	42–47",Hexagonal,,47,3,E. coli,_,,,18,
+144,Md Ridoy Hossain,2025,"	10.1371/journal.pone.0335524",Ag,Brownlowia tersa,Leaf,AgNO?,0.005,10,90,32,0.167,,,,,,,,,S. flexneri,_,,,10.5,
+145,"	Nibedita Nayak",2025,10.1039/D5RA07686B,CeO?,Actinidia deliciosa,Peel,,,20,,90,6,400,,400,45–60,,,,2.9 eV,E. coli,_,1 × 10?,,7,250
+146," Rajeshkumar
+ Shanmugam
+",2025,10.1016/j.jics.2025.101599,Fe?O?,Cissus rotundifolia,Stem,Iron chloride,0.02,50,50,,,,,,10.06,Spherical,,10.06,,P. aeruginosa,_,,,11,
+147,Ankita Parmanik,2025,10.1007/s10856-025-06914-2,Fe?O?,Cyperus rotundus,Root,FeCl?,0.1,70,30,,30 minutes,,11,,30–50,,,,,P. aeruginosa,_,,,17.08,
+148,Hülya Ho?gören,2025,10.1016/j.kjs.2025.100416,Ag,Rubus sanctus Schreber,Leaf,AgNO?,0.005,500,100,,4,,,,10.32–36.50,,,20.19,,B. subtilis,positve,,,,0.0312
+149,"Hailemichael 
+Tegenu Gebrie
+",2025,10.1038/s41598-025-10700-z,CuO,Plumbago zeylanica,Leaf,CuSO?·5H?O,0.005,,,80,2,,9,400,,Spherical,,25.15,3.22,K. pneumoniae,_,,,16.5,
+150,"Abel Saka
+ Gungure",2025,10.1007/s43939-025-00189-8,ZnO,Phragmanthera macrosolen L.,Leaf,Zinc chloride (ZnCl?),0.4,20,20,90,2,,3.5,350,42–47,agglomerated,,47,3,E. coli,_,,,18,0.23
+151,P. Sravanthi,2024,10.1016/j.hybadv.2024.100327,Ag,Coccinia grandis,leaf,AgNO3,0.002,5,2,,,,,,29.4,Spherical,,7.37,,Staphylococcus aureus,+,,Disk diffusion,11,
+152,P. Sravanthi,2024,10.1016/j.hybadv.2024.100327,Ag,Coccinia grandis,leaf,AgNO3,0.002,5,2,,,,,,29.4,Spherical,,7.37,,E. coli,-,,Disk diffusion,9,
+153,P. Sravanthi,2024,10.1016/j.hybadv.2024.100327,Ag,Coccinia grandis,leaf,AgNO3,0.002,5,2,,,,,,29.4,Spherical,,7.37,,Streptococcus pneumoniae,+,,Disk diffusion,11,
+154,P. Sravanthi,2024,10.1016/j.hybadv.2024.100327,Ag,Coccinia grandis,leaf,AgNO3,0.002,5,2,,,,,,29.4,Spherical,,7.37,,Pseudomonas aeruginosa,-,,Disk diffusion,9,
+155,Nigar Sultana,2024,10.1016/j.focha.2024.100709,Ag/AgCl,Spondias pinnata,bark,AgNO3,0.003,2,,,,,,,26.5 to 67.9,Spherical,,24.6 to 42.4,,Shigella boydii,-,, Disk diffusion,15,3
+156,Nigar Sultana,2024,10.1016/j.focha.2024.100709,Ag/AgCl,Spondias pinnata,bark,AgNO3,0.003,2,,,,,,,26.5 to 67.9,Spherical,,24.6 to 42.4,,Escherichia coli,-,, Disk diffusion,14,6
+157,Nigar Sultana,2024,10.1016/j.focha.2024.100709,Ag/AgCl,Spondias pinnata,bark,AgNO3,0.003,2,,,,,,,26.5 to 67.9,Spherical,,24.6 to 42.4,,Shigella dysenteriae,-,, Disk diffusion,,12
+158,Nigar Sultana,2024,10.1016/j.focha.2024.100709,Ag/AgCl,Spondias pinnata,bark,AgNO3,0.003,2,,,,,,,26.5 to 67.9,Spherical,,24.6 to 42.4,,Staphylococcus aureus,+,, Disk diffusion,13.5,3
+159,Md Faridul Islam,2024,10.1016/j.heliyon.2024.e25430,ZnO,Allium cepa L.,peels,Zn(CH3CO2)?2H2O,0.002,20,100,65,,450,8.0 ± 0.10,500,49 to 100,Hexagonal,,72.6,3.47,P. aeruginosa,-,,Kirby Bauer disc diffusion,12.0 ± 1.52,50
+160,Md Faridul Islam,2024,10.1016/j.heliyon.2024.e25430,ZnO,Allium cepa L.,peels,Zn(CH3CO2)?2H2O,0.002,20,100,65,,450,8.0 ± 0.10,500,49 to 100,Hexagonal,,72.6,3.47,E. coli,-,,Kirby Bauer disc diffusion,8.83 ± 0.54,100
+161,Md Faridul Islam,2024,10.1016/j.heliyon.2024.e25430,ZnO,Allium cepa L.,peels,Zn(CH3CO2)?2H2O,0.002,20,100,65,,450,8.0 ± 0.10,500,49 to 100,Hexagonal,,72.6,3.47,S. aureus,+,,Kirby Bauer disc diffusion,13.0 ± 1,50
+162,Md Faridul Islam,2024,10.1016/j.heliyon.2024.e25430,ZnO,Allium cepa L.,peels,Zn(CH3CO2)?2H2O,0.002,20,100,65,,450,8.0 ± 0.10,500,53 to 100,Hexagonal,,57.38,3.48,P. aeruginosa,-,,Kirby Bauer disc diffusion,22.0 ± 0.58,50
+163,Md Faridul Islam,2024,10.1016/j.heliyon.2024.e25430,ZnO,Allium cepa L.,peels,Zn(CH3CO2)?2H2O,0.002,20,100,65,,450,8.0 ± 0.10,500,53 to 100,Hexagonal,,57.38,3.48,E. coli,-,,Kirby Bauer disc diffusion,13.17 ± 0.82,50
+164,Md Faridul Islam,2024,10.1016/j.heliyon.2024.e25430,ZnO,Allium cepa L.,peels,Zn(CH3CO2)?2H2O,0.002,20,100,65,,450,8.0 ± 0.10,500,53 to 100,Hexagonal,,57.38,3.48,S. aureus,+,,Kirby Bauer disc diffusion,13.50 ± 0.76,50
+165,Sanjay Kumar,2024,10.1016/j.rechem.2024.101909,ZnO,Ageratum conyzoides,leaf,ZnSO4?7H2O,0.2,25,25,30,10,,,300,60 to 70,spherical,,,,Bacillus cereus,+,,Disc diffusion,12 at 20 ?g/?L conc. ,
+166,Sanjay Kumar,2024,10.1016/j.rechem.2024.101909,ZnO,Ageratum conyzoides,leaf,ZnSO4?7H2O,0.2,25,25,30,10,,,300,60 to 70,spherical,,,,Bacillus cereus,+,,Disc diffusion,13 at 40 ?g/?L conc.,
+167,Sanjay Kumar,2024,10.1016/j.rechem.2024.101909,ZnO,Ageratum conyzoides,leaf,ZnSO4?7H2O,0.2,25,25,30,10,,,300,60 to 70,spherical,,,,Bacillus cereus,+,,Disc diffusion,19 at 60 ?g/?L conc.,
+168,Sanjay Kumar,2024,10.1016/j.rechem.2024.101909,ZnO,Ageratum conyzoides,leaf,ZnSO4?7H2O,0.2,25,25,30,10,,,300,60 to 70,spherical,,,,Pseudomonas aeruginosa,-,,Disc diffusion,6 at 20 ?g/?L conc.,
+169,Sanjay Kumar,2024,10.1016/j.rechem.2024.101909,ZnO,Ageratum conyzoides,leaf,ZnSO4?7H2O,0.2,25,25,30,10,,,300,60 to 70,spherical,,,,Pseudomonas aeruginosa,-,,Disc diffusion,12 at 40 ?g/?L conc.,
+170,Sanjay Kumar,2024,10.1016/j.rechem.2024.101909,ZnO,Ageratum conyzoides,leaf,ZnSO4?7H2O,0.2,25,25,30,10,,,300,60 to 70,spherical,,,,Pseudomonas aeruginosa,-,,Disc diffusion,18 at 60 ?g/?L conc.,
+171,Sanjay Kumar,2024,10.1016/j.rechem.2024.101909,ZnO,Ageratum conyzoides,leaf,ZnSO4?7H2O,0.2,25,25,30,10,,,300,60 to 70,spherical,,,,Escherichia coli,-,,Disc diffusion,16 at 20 ?g/?L conc.,
+172,Sanjay Kumar,2024,10.1016/j.rechem.2024.101909,ZnO,Ageratum conyzoides,leaf,ZnSO4?7H2O,0.2,25,25,30,10,,,300,60 to 70,spherical,,,,Escherichia coli,-,,Disc diffusion,15 at 40 ?g/?L conc.,
+173,Sanjay Kumar,2024,10.1016/j.rechem.2024.101909,ZnO,Ageratum conyzoides,leaf,ZnSO4?7H2O,0.2,25,25,30,10,,,300,60 to 70,spherical,,,,Escherichia coli,-,,Disc diffusion,18 at 60 ?g/?L conc.,
+174,Nor’Aishah Hasan,2024,10.1016/j.heliyon.2024.e34558,CeO2,Melastoma sp.,leaf,CeNO3?6H2O,0.115,150,,,3,,7,500,16,spherical,,5.31,,Escherichia coli,-,,Disc diffusion,1.83 ± 0.137,
+175,Nor’Aishah Hasan,2024,10.1016/j.heliyon.2024.e34558,CeO2,Melastoma sp.,leaf,CeNO3?6H2O,0.115,150,,,3,,7,500,16,spherical,,5.31,,Klebsiella pneumoniae,-,,Disc diffusion,1.83 ± 0.14,
+176,Nor’Aishah Hasan,2024,10.1016/j.heliyon.2024.e34558,CeO2,Melastoma sp.,leaf,CeNO3?6H2O,0.115,150,,,3,,7,500,16,spherical,,5.31,,Pseudomonas aeruginosa,-,,Disc diffusion,0,
+177,Nor’Aishah Hasan,2024,10.1016/j.heliyon.2024.e34558,CeO2,Melastoma sp.,leaf,CeNO3?6H2O,0.115,150,,,3,,7,500,16,spherical,,5.31,,Bacillus subtilis,+,,Disc diffusion,1.54 ± 0.04,
+178,Livhuwani Mafhala,2024,10.1016/j.emcon.2024.100348,Ag,Citrus unshiu,peels,AgNO3,0.15,20,,60,1,200,8,300,23,spherical,,27.39,,Staphylococcus aureus,+,,Broth icrodilution,,31.25
+179,Livhuwani Mafhala,2024,10.1016/j.emcon.2024.100348,Ag,Citrus unshiu,peels,AgNO3,0.15,20,,60,1,200,8,300,23,spherical,,27.39,,Bacillus cereus,+,,Broth icrodilution,,31.25
+180,Livhuwani Mafhala,2024,10.1016/j.emcon.2024.100348,Ag,Citrus unshiu,peels,AgNO3,0.15,20,,60,1,200,8,300,23,spherical,,27.39,,Escherichia coli,-,,Broth icrodilution,,250
+181,Livhuwani Mafhala,2024,10.1016/j.emcon.2024.100348,Ag,Citrus unshiu,peels,AgNO3,0.15,20,,60,1,200,8,300,23,spherical,,27.39,,Salmonella typhimurium,-,,Broth icrodilution,,250
+182,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Azadirachta indica,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,27.4,semi-spherical,,,,Escherichia coli,-,10?,Agar Diffusion,24.5,62.5
+183,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Azadirachta indica,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,27.4,semi-spherical,,,,Pseudomonas aeruginosa,-,10?,Agar Diffusion,27.6,125
+184,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Azadirachta indica,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,27.4,semi-spherical,,,,Acinetobacter spp,-,10?,Agar Diffusion,34.1,125
+185,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Azadirachta indica,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,27.4,semi-spherical,,,,Klebsiella pneumoniae,-,10?,Agar Diffusion,36.2,125
+186,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Azadirachta indica,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,27.4,semi-spherical,,,,"Stenotrophomonas
+maltophilia",-,10?,Agar Diffusion,29.5,62.5
+187,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Azadirachta indica,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,27.4,semi-spherical,,,,Methicillin-resistant Staphylococcus aureus,+,10?,Agar Diffusion,33.7,125
+188,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Simmondsia chinensis,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,25.3,semi-spherical,,,,Escherichia coli,-,10?,Agar Diffusion,23.6,125
+189,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Simmondsia chinensis,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,25.3,semi-spherical,,,,Pseudomonas aeruginosa,-,10?,Agar Diffusion,21.5,125
+190,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Simmondsia chinensis,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,25.3,semi-spherical,,,,Acinetobacter spp,-,10?,Agar Diffusion,27.9,125
+191,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Simmondsia chinensis,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,25.3,semi-spherical,,,,Klebsiella pneumoniae,-,10?,Agar Diffusion,24.1,125
+192,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Simmondsia chinensis,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,,25.3,semi-spherical,,,,"Stenotrophomonas
+maltophilia",-,10?,Agar Diffusion,29.6,62.5
+193,Toka Khairy,2024,10.1038/s41598-024-75147-0,CuO,Simmondsia chinensis,leaf,CuSO4?5H2O,0.001,5,45,30,24,,8,80,25.3,semi-spherical,,,,Methicillin-resistant Staphylococcus aureus,+,10?,Agar Diffusion,29.6,125
+194,Saeid Taghavi Fardood,2024,10.1038/s41598-024-56666-2,?-Mn2O3,Astragalus Species,Gel,Mn(NO3)2?4H2O,,,,75,12,,,500,30,spherical,,23,1.98,Staphylococcus aureus,+,1.5 × 10?,"Broth
+Microdilution",,1
+195,Saeid Taghavi Fardood,2024,10.1038/s41598-024-56666-2,?-Mn2O3,Astragalus Species,Gel,Mn(NO3)2?4H2O,,,,75,12,,,500,30,spherical,,23,1.98,Enterococcus faecalis,+,1.5 × 10?,"Broth
+Microdilution",,1
+196,Saeid Taghavi Fardood,2024,10.1038/s41598-024-56666-2,?-Mn2O3,Astragalus Species,Gel,Mn(NO3)2?4H2O,,,,75,12,,,500,30,spherical,,23,1.98,Escherichia coli,-,1.5 × 10?,"Broth
+Microdilution",,2.5
+197,Saeid Taghavi Fardood,2024,10.1038/s41598-024-56666-2,?-Mn2O3,Astragalus Species,Gel,Mn(NO3)2?4H2O,,,,75,12,,,500,30,spherical,,23,1.98,Salmonella typhimurium,-,1.5 × 10?,"Broth
+Microdilution",,3
+198,Saeid Taghavi Fardood,2024,10.1038/s41598-024-56666-2,?-Mn2O3,Astragalus Species,Gel,Mn(NO3)2?4H2O,,,,75,12,,,500,30,spherical,,23,1.98,Klebsiella pneumoniae,-,1.5 × 10?,"Broth
+Microdilution",,2.5
+199,Saeid Taghavi Fardood,2024,10.1038/s41598-024-56666-2,?-Mn2O3,Astragalus Species,Gel,Mn(NO3)2?4H2O,,,,75,12,,,500,30,spherical,,23,1.98,Proteus mirabilis,-,1.5 × 10?,"Broth
+Microdilution",,2.5
+200,Saeid Taghavi Fardood,2024,10.1038/s41598-024-56666-2,?-Mn2O3,Astragalus Species,Gel,Mn(NO3)2?4H2O,,,,75,12,,,500,30,spherical,,23,1.98,Pseudomonas aeruginosa ,-,1.5 × 10?,"Broth
+Microdilution",,3
+201,Ajay Kumar Tiwari,2024,10.1007/s42452-024-06049-z,ZnO, Calendula officinalis,leaf,C4H6O4Zn?2H2O,0.45,50,50,60,2,1200,,,,spherical,,28.23,2.986,Staphylococcus aureus,+,,disk diffusion,35.2±?0.9,
+202,Ajay Kumar Tiwari,2024,10.1007/s42452-024-06049-z,ZnO, Calendula officinalis,leaf,C4H6O4Zn?2H2O,0.45,50,50,60,2,1200,,,,spherical,,28.23,2.986,Klebsiella pneumoniae,-,,disk diffusion,23.6?±?0.1,
+203,Ajay Kumar Tiwari,2024,10.1007/s42452-024-06049-z,ZnO, Calendula officinalis,leaf,C4H6O4Zn?2H2O,0.45,50,50,60,2,1200,,,,spherical,,28.23,2.986,Escherichia coli,-,,disk diffusion,13.5?±?0.1,
+204,Fatemeh Sheikh Ansari,2024,10.1038/s41598-024-73344-5,TiO2,Spinacia Oleracea,leaf,TiOSO4,0.5,20,0.2,50,15,,8,,10-40,spherical,,30,,Escherichia coli,-,1.5 x 10?,,,500
+205,Fatemeh Sheikh Ansari,2024,10.1038/s41598-024-73344-5,TiO2,Spinacia Oleracea,leaf,TiOSO4,0.5,20,0.2,50,15,,8,,10-40,spherical,,30,,Staphylococcus aureus,+,1.5 x 10?,,,2000
+206,Muhammad Ramzan,2024,10.2147/IJN.S475656,Ag,Zingiber officinale,rhizome extract,AgNO3,0.01,25,125,,24,,12,,200.5,spherical,,61.7,,Escherichia coli,-,10?,Agar Well diffusion,20.83?±?0.53,12.5
+207,Muhammad Ramzan,2024,10.2147/IJN.S475656,Ag,Zingiber officinale,rhizome extract,AgNO3,0.01,25,125,,24,,12,,259.2,spherical,,63.8,,Escherichia coli,-,,,18.33±?0.3,25
+208,Muhammad Ramzan,2024,10.2147/IJN.S475656,Ag,Zingiber officinale,rhizome extract,AgNO3,0.01,25,125,,24,,12,,200.5,spherical,,61.7,,Salmonella enterica,-,,,17.33?±?0.3,
+209,Muhammad Ramzan,2024,10.2147/IJN.S475656,Ag,Zingiber officinale,rhizome extract,AgNO3,0.01,25,125,,24,,12,,259.2,spherical,,63.8,,Salmonella enterica,-,,,16.83?±?0.47,
+210,Muhammad Ramzan,2024,10.2147/IJN.S475656,Ag,Zingiber officinale,rhizome extract,AgNO3,0.01,25,125,,24,,12,,200.5,spherical,,61.7,,Staphylococcus aureus,+,,,15.5?±?0.5,
+211,Muhammad Ramzan,2024,10.2147/IJN.S475656,Ag,Zingiber officinale,rhizome extract,AgNO3,0.01,25,125,,24,,12,,259.2,spherical,,63.8,,Staphylococcus aureus,+,,,13.83?±?0.53,
+212,Sachin,2023,10.1016/j.chemosphere.2023.138497,ZnO,Litchi chinensis,peel,Zn(C?H?O?)?·2H?O,0.01,5,95,70,3,180,,400,10,Spherical,,2.18,3.87,"E. coli, P. aeruginosa, B. subtilis, S. aureus","-, -, +, +",10?,Agar well diffusion,"23, 22, 17, 15",
+213,Rahmatian N.,2023,10.1016/j.molliq.2023.123327,Ag,Echinophora platyloba,"aerial, root",AgNO?,0.02,1,0.5,80,0.32,,10,,15,Spherical,,18.11,,"E. coli, S. aureus","-, +",1.5×10?,Broth microdilution,,"119.06, 59.53"
+214,Wasilewska A.,2023,10.1016/j.foodchem.2022.133960,Ag,"Solanum tuberosum, Allium cepa, Allium sativum, Raphanus sativus, Capsicum annuum, Citrus sinensis, Malus domestica","tuber, bulb, peel, fruit, root",AgNO?,0.01,"100, 10, 30, 10, 30, 5, 10","100, 10, 30, 10, 30, 5, 10","25, 60, 25, 25, 25, 25, 60","24, 1, 24, 24, 0.5, 24, 1",,"6.2, 5.8, 5.6, 5.5, 5.1, 4.0, 2.1",,"9, 10, 11, 15, 19, 25, 30",Spherical,"2, 10, None, 38, 62, 80, 100","5, 9, None, 16, 20, 28, 36",,"S. aureus, B. cereus, E. coli","+, +, -",,Broth microdilution,,"0.016, 0.004, 0.016"
+215,Cantarella M.,2023,10.1016/j.jphotochem.2023.114838,TiO?,Thymus vulgaris,leaf,Titanium tetraisopropoxide,,5,6,50,4,,,500,12.5,Polyhedral,,11.2,3.25,,,,,,
+216,Al-Mhyawi S.R.,2023,10.1016/j.ijoes.2023.100210,Ag,Nicotiana tabacum,leaf,AgNO?,"0.003, 0.005, 0.01",5,50,80,0.67,,,,"45.81, 55.43, 61.10",Spherical,,"45.81, 55.43, 61.10",,,,,,,
+217,Keshtmand Z.,2023,10.1016/j.nanoso.2023.101049,Se,Artemisia chamaemelifolia,aerial,Na?SeO?,0.01,2,10,25,0.08,,,,110,Spherical,,,,"S. aureus, K. pneumoniae","+, -",1.5×10?,Broth microdilution,,"25.0, 12.5"
+218,Larasati D.A.,2023,10.1016/j.rinma.2023.100431,CoFe?O?/ZnS,Moringa oleifera,leaf,"CoCl?·6H?O, FeCl?·6H?O",0.1,,30,80,1,600,12,600,17,Quasi spherical,,6.2,4.2,,,,,,
+219,Khatun M.,2023,10.1016/j.focha.2023.100386,Ag,Mikania cordata,leaf,AgNO?,1,40,6,80,1.17,,,,36.4,Spherical,,34.2,,"S. aureus, E. coli, S. dysenteriae, S. boydii","+, -, -, -",0.05 OD???,Disk diffusion,"15.0, 13.5, 13.0, 16.0",
+220,Balarabe B.Y.,2023,10.1016/j.hybadv.2023.100107,TiO?@Au,Moringa oleifera,leaf,HAuCl?·3H?O,0.0015,50,50,60,1,,,500,10,Spherical,,20,,,,,,,
+221,Mohammed A.M.,2023,10.1016/j.rechem.2023.100848,Au,"Ziziphus spina-christi, Cordia myxa",leaf,HAuCl4·3H2O,0.00025,10,25,40,0.5,,,,"44.66, 72.93",Spherical,,,,,,,,,
+222,Darmawan M.Y.,2023,10.1016/j.rechem.2023.100999,Fe3O4/Ag,Moringa oleifera,leaf,"FeCl3·6H2O, FeSO4·7H2O, AgNO3","0.02, 0.04, 0.06, 0.08",10,30,60,0.75,"600, 450",,,"20.8, 30.7","Round, Cubic",,"19.0, 25.4, 27.2, 30.1, 32.6","3.35, 2.99",,,,,,
+223,Mbenga Y.,2023,10.1016/j.rechem.2023.101007,TiO2,Tulbaghia violacea,bulb,Ti(C4H9O)4,,"10, 20, 40",2,25,4,,,500,"3.4, 3.0, 3.3","Rectangular, Spherical, Irregular",,"3.4, 3.0, 3.3",,,,,,,
+224,Teklu B.,2023,10.1016/j.rechem.2023.101152,CuO,Balanites aegyptiaca,bark,Cu(NO3)2,0.01,5,50,110,24,,,,27,Spherical,,28.5,,"E. coli, V. cholerae, B. subtilis, E. faecalis","-, -, +, +",10?,Agar well diffusion,"–, –, 13, 8",
+225,Javid-Naderi M.J.,2023,10.1016/j.eti.2023.103300,CuO,Abelmoschus esculentus,fruit,Cu(NO3)2·3H2O,0.5,10,50,70,6,,,500,20.7,Spherical,,25,3.20,,,,,,
+226,Mbachu C.A.,2023,10.1016/j.rineng.2023.101198,Fe2O3,Cola nitida,leaf,FeSO4·7H2O,"2, 3, 4","5, 10, 15",80,60,0.5,150,,"400, 500, 600",,Spherical,,,,,,,,,
+227,Mohammed Y.H.I.,2023,10.1021/acsomega.3c03908,ZnO,Cymbopogon citratus,leaf,Zn(NO3)2·6H2O,0.1,"2, 4, 6, 8, 10",50,60,2,,12,400,22,Hexagonal rod,,21.6,3.3,"E. coli, S. aureus","-, +",10^6,Agar well diffusion,"15.4, 19.6","92.07, 88.13"
+228,Kumar H.,2023,arXiv:2304.04777,Ag,Curcuma longa,flower,AgNO3,"0.001, 0.002, 0.003, 0.004, 0.005",10,90,25,24,,,,5,Spherical,,5.2,,"M. smegmatis, M. phlei, S. aureus, S. epidermidis, K. pneumoniae, E. coli","+, +, +, +, -, -",1.5x10^8,Agar well diffusion,"26, 22, 22, 18, 18, 13","39.06, 78.12, 156.25, 312.5, 312.5, 625.0"
+229,Abdel-Alim M.E.,2023,10.47352/bioactivities.2963-654X.180,Ag,Phoenix dactylifera,seed,AgNO3,0.001,10,90,60,2,,8.5,,18.5,Spherical,,17.8,,"E. coli, P. aeruginosa, S. aureus, B. subtilis","-, -, +, +",10^7,Agar well diffusion,"18.2, 16.5, 19.4, 17.1","31.25, 62.5, 15.62, 31.25"
+230,Munusamy T.,2023,10.7759/cureus.50142,CuO,Terminalia chebula,fruit,CuSO4·5H2O,0.1,20,80,60,3,,,450,24,Spherical,,22.4,2.85,"S. aureus, P. aeruginosa, E. coli","+, -, -",10^6,Agar well diffusion,"18.0, 15.0, 16.0",
+231,Jaison J.P.,2023,10.3390/antibiotics12030564,Ag,Uvaria narum,leaf,AgNO3,0.001,5,45,70,0.17,,,,7.13,Spherical,,6.8,,"S. aureus, E. coli","+, -",10^6,Agar well diffusion,"16.0, 14.0",
+232,Anis S.N.S.,2023,10.1016/j.clet.2023.100660,Ag,Ananas comosus,leaf,AgNO3,"0.005, 0.010, 0.015, 0.020, 0.025","2, 4, 6, 8",10,80,0.1,,,,95,Hexagonal spherical,,24.5,,"E. coli, B. subtilis, S. aureus","-, +, +",,Broth dilution,,"60, 60, 60"
+233,MuthuKathija M.,2023,10.1016/j.apsadv.2023.100400,ZnO,Pisonia alba,leaf,Zinc acetate dihydrate,,50,,100,2,,,500,48,Aloe-vera leaf-like,,48,2.96,"S. aureus, K. pneumoniae","+, -",,Disk diffusion,"20.4, 11",
+234,Ghatage M.M.,2023,10.1016/j.apsadv.2023.100426,Ag,Aloe barbadensis miller,leaf,AgNO3,0.3,,,25,0.33,,,,25.92,Spherical,,,,"S. aureus, S. citrus, E. coli, K. pneumoniae","+, +, -, -",,Agar well diffusion,"18, 18, 20, 17",
+235,Patil T.P.,2023,10.1016/j.apsadv.2023.100372,Au,Capsicum annum,fruit,HAuCl4,0.001,0.5,10,90,0.1,,,,25.92,Spherical,,28.6,,,,,,,
+236,Rathi V.H.,2023,10.1016/j.apsadv.2023.100476,"Ag/CuO, Ag/TiO2",Caesalpinia pulcherrima,flower,"Cu(NO3)2·3H2O, TTIP, AgNO3",,,,,,,,,"6, 8","Monoclinic, Tetragonal",,"6, 8",,"S. aureus, E. coli","+, -",,Agar well diffusion,,
+237,Tiwari H.,2023,10.1016/j.scca.2023.100031,Ag,Mimusops elengi,leaf,AgNO3,0.001,50,50,50,4,,9.5,,20,Spherical,,,,E. coli,-,,Disk diffusion,,
+238,Alamier W.M.,2023,10.1021/acsomega.3c01292,Ag,Acacia ehrenbergiana,cortex,AgNO3,0.002,200,10,80,2,,,,20.5,Spherical,,23,,"S. aureus, E. coli, K. pneumoniae, P. aeruginosa","+, -, -, -",1.5×10?,Agar well diffusion,,"5, 10, 5, 5"
+239,Ramesh P.,2023,10.1016/j.chphi.2023.100208,Cu2O,Sargassum wightii,whole,Cu(NO3)2·6H2O,0.5,5,100,25,2,,,400,32.5,Spherical,,28,2.14,,,,,,
+240,Taghavi Fardood S.,2023,10.22036/ncr.2023.02.006,CuO,Camellia sinensis,leaf,Cu(NO3)2·3H2O,,,,25,,,,400,25,Spherical,,,2.04,"E. coli, S. typhimurium, P. mirabilis, P. aeruginosa, S. aureus, E. faecalis","-, -, -, -, +, +",1.5x10^8,Broth microdilution,,"1.25, 1.25, 1.25, 1.5, 1.0, 1.0"
+241,Ghdeeb N.J.,2023,10.26599/NBE.2023.9290003,ZnO,"Cinnamomum verum, Laurus nobilis",leaf,Zn(CH3CO2)2·2H2O,0.1,"10, 10","10, 10",25,24,,,,"9.97, 18.55","Spherical, Hexagonal wurtzite",,"9.97, 18.55","3.89, 3.74","E. coli, Klebsiella spp., S. aureus, S. epidermidis","-, -, +, +",,Agar well diffusion,"12, 15, 12, 15",
+242,Ghadiri M.,2023,10.30492/ijcce.2023.1972151.5712,Ag/AC,Semecarpus anacardium,nutshell,AgNO3,0.1,,,25,,,,700,3,Spherical,,,,E. coli,-,1.5x10^8,Disk diffusion,11,
+243,Chatterjee S.,2023,10.7759/cureus.46088,ZnO,"Matricaria chamomilla, Camellia sinensis","flower, leaf",ZnO,0.0022,10,90,25,2,900,,,,Spherical,,,,,,,,,
+244,Elsayed N.H.,2023,10.1021/acsomega.3c04117,Fe3O4,Beta-Cyclodextrin (Biopolymer),polysaccharide,"FeCl3·6H2O, FeSO4·7H2O",0.05,50,100,70,2,500,10,,14.2,Spherical,,12.8,,,,,,,
+245,Patil N.A.,2023,10.22034/CHEMM.2022.355289.1597,Au,"Vitis vinifera, Buchanania lanzan, Juglans regia, Phoenix dactylifera",fruit,HAuCl4,0.001,"0.25, 0.5, 0.75, 1.0",3,25,6,,,,,"Spherical, Face centered cubic",,,,"S. aureus, E. coli, B. subtilis, P. aeruginosa","+, -, +, -",,Agar well diffusion,"12, 11, 14, 14",
+246,Sarani M.,2023,10.1002/open.202300067,"?-Fe2O3@Ag, Fe3O4@Ag",Salvadora persica,bark,"Fe(NO3)3·9H2O, FeSO4·7H2O, AgNO3","0.1, 0.1, 0.025",10,40,70,4,150,"11.8, 12.2",400,"50, 30","Multifaceted, Spherical",,30.07,,,,,,,
+247,Goh H.T.,2023,10.1002/fft2.206,Ag,Musa acuminata,peel,AgNO3,0.001,15,100,30,0.5,,,,,Agglomerated spherical,,,,,,,,,
+248,Hanafiah R.M.,2023,10.1080/21691401.2023.2268167,Ag,Strobilanthes crispus,leaf,AgNO3,0.001,,,25,24,,,,75.25,Spherical,,,,"E. coli, P. aeruginosa, S. mutans","-, -, +",1.5×10?,Disk diffusion,"12.5, 12.71, 11.00","1250, 1250, 1250"
+249,Dejen K.D.,2023,10.1080/10667857.2022.2164647,Ag,Croton macrostachyus,"leaf, bark",AgNO3,0.1,"75, 50, 25, 50, 50","25, 50, 75, 50, 50",25,2.5,,,,"8.9, 10.7, 12.11, 10.87, 13.68","Rod-like, Spherical, Flower-shaped",,"8.9, 10.7, 12.11, 10.87, 13.68",,"P. aeruginosa, S. pyogenes","-, +",,Disk diffusion,"11, 13",
+250,Aida M.S.,2023,10.1080/16583655.2023.2221827,?-Fe2O3,Hibiscus rosa-sinensis,flower,FeCl3,0.1,10,90,25,,,,500,20,Spherical,,20,,,,,,,
+251,Maher S.,2023,10.1021/acsomega.3c05947,ZnO,Withania coagulans,leaf,Zn(CH3COO)2·2H2O,0.02,10,,60,3,,,100,90,Spherical,,,,,,,,,
+252,Wang F.,2023,10.1021/acsomega.3c06122,PtPdNiFeCu HEA,Camellia sinensis,leaf,"H2PtCl6·6H2O, PdCl2, FeCl3, NiCl2, CuCl2",,30,,180,4,,,,7.5,Spherical,,,,,,,,,
+253,Al-Kaabi W.J.,2023,10.3390/app13042182,Ag,Linum usitatissimum,seed,AgNO3,0.001,10,6,25,5,,,,46.98,"Spherical, Triangular",,,,"E. coli, K. pneumoniae, S. aureus, S. pyogenes","-, -, +, +",,Agar well diffusion,,
+254,Sone B.T.,2023,10.3390/app13169082,Co3O4,Hyphaene thebaica,fruit,Co(NO3)2·6H2O,0.2,100,,130,5,,,500,,Hollow spherical,,,2.00,,,,,,
+255,Yassin M.T.,2023,10.3390/app13179942,Fe2O3,Laurus nobilis,leaf,Fe(NO3)3·9H2O,0.01,50,50,25,24,,,,46.3,Spherical,,47.59,,,,,,,
+256,Ali S.,2023,10.3390/bioengineering10030302,MgO,Abrus precatorius,bark,Mg(NO3)2,0.1,40,10,80,3,,,600,100,Irregular agglomerate,,,,,,,,,
+257,Bopape D.A.,2023,10.3390/catal13020163,CuO-TiO2,Commelina benghalensis,whole,"Cu(NO3)2·3H2O, TTIP",,250,,80,0.25,,,450,,"Spherical, Irregular",,,,,,,,,
+258,Kamal A.,2023,10.3390/catal13030400,"Fe, ZnO",Wild edible mushroom,fruiting body,"FeCl3, Zn(CH3COO)2",,,,60,2,,,,"25, 30",Spherical,,,,,,,,,
+259,Abbas A.,2023,10.3390/catal13040502,CuO,Seriphidium oliverianum,leaf,Cu(NO3)2·3H2O,0.1,40,,25,3,70,,,28,"Monoclinic, Spherical",,24.7,,,,,,,
+260,Minhas L.A.,2023,10.3390/catal13030549,ZnO,Nostoc sp.,biomass,Zn(CH3COO)2·2H2O,,98,250,60,2,500,,450,28.21,"Hexagonal, Spherical",,28.21,,,,,,,
+261,Castilho N.,2023,10.3390/coatings13081439,Ag,Moringa oleifera,seed,AgNO3,0.001,10,40,80,0.17,,5.1,,15,Spherical,,,,E. coli,-,,Broth dilution,,
+262,Rahman H.,2023,10.3390/cryst13030398,Ag,Rhazya stricta,leaf,AgNO3,0.0007,,,70,0.25,,,,27.5,Spherical,,,,"S. aureus, E. coli, S. typhi","+, -, -",,Microdilution assay,,
+263,Verma L.M.,2023,10.1039/d3na00596h,ZnO,Saccharum officinarum,agro-waste,"ZnSO4·7H2O, Zn(NO3)2·6H2O, Zn(CH3COO)2·2H2O","0.1, 0.1, 0.1",15,200,32,0.5,750,12,85,"14, 18, 20","Sheet-like, Sheet-like, Sphere-like",,,"3.78, 3.88, 4.10",,,,,,
+264,Islam M.J.,2023,10.1039/d3ra03381c,Ag,Psidium guajava,leaf,AgNO3,"0.010, 0.015, 0.020, 0.025",1,10,60,0.17,,,500,12,Spherical,,22,,"E. coli, S. aureus","-, +",,Agar diffusion,,
+265,Abdel-Shafy H.I.,2023,10.3390/environsciproc2023025099,?-Fe2O3,"Allium cepa, Solanum tuberosum, Camellia sinensis, Moringa oleifera","peel, peel, leaf, leaf",Iron salt,,5,,80,2,1000,,,,Spherical,,,,,,,,,
+266,Ahmad K.,2023,10.3389/fchem.2023.1065986,Ag,Piper cubeba,fruit,AgNO3,0.01,20,20,25,,,,,"40, 50, 65, 79","Irregular square, Spherical",,"7, 15, 38, 51",,,,,,,
+267,Rotti R.B.,2023,10.3389/fchem.2023.1143614,MgO,"Carica papaya, Azadirachta indica, Mangifera indica",leaf,MgSO4,0.003,50,,100,0.5,,,500,"20.82, 27.08, 10.25","Spherical, Irregular, Flake-like",,"20.82, 27.08, 10.25","6.06, 5.90, 6.16",,,,,,
+268,Singh D.,2023,10.3389/fchem.2023.1154128,CuO,Serratia sp. ZTB29,bacterial culture,CuSO4·5H2O,0.005,,100,28,48,150,,80,28,Spherical,,22,,"Xanthomonas sp., E. coli","-, -",,"Agar well diffusion, Disk diffusion","18, 22",
+269,Khan Z.U.H.,2023,10.3389/fchem.2023.1175114,PbO,Mangifera indica,leaf,Lead salt,,,,,,,,,50,Spherical,,50,,,,,,,
+270,Keskin C.,2023,10.3389/fchem.2023.1187808,Ag,Diospyros kaki,leaf,AgNO3,0.005,10,40,30,0.25,,,,27.12,Spherical,,,,"B. subtilis, S. aureus, P. aeruginosa, E. coli","+, +, -, -",,Broth microdilution,,"0.03, 0.04, 0.03, 0.05"
+271,Kiranmayee M.,2023,10.3389/fchem.2023.1218588,Cu,Piper nigrum,fruit,Cu(CH3COO)2,0.003,10,200,25,,,,,,Spherical,,,3.70,"E. coli, S. aureus, P. aeruginosa, B. subtilis","-, +, -, +",,Agar well diffusion,,
+272,Ramasubbu K.,2023,10.3390/fermentation9040332,CuO,Sesbania grandiflora,leaf,CuSO4·5H2O,0.1,200,,60,1,,,,33,Needle-shaped,,,1.006,"E. coli, P. aeruginosa, S. aureus","-, -, +",,Agar well diffusion,"14, 19, 15",
+273,Khan H.A.,2023,10.3389/fphar.2023.1194809,Ag,Fagonia cretica,leaf,AgNO3,0.005,5,45,25,0.5,,11,60,29.39,"Spherical, Crystalline",,,,,,,,,
+274,Rehman I.,2023,10.3390/nano13081343,Ag,Teucrium stocksianum,aerial,AgNO3,,,,"30, 50, 70",,,,,12.5,Spherical,,,,"S. aureus, E. coli, B. subtilis, S. pneumoniae","+, -, +, +",,Agar well diffusion,,"5.3, 7.4, 8.1, 6.7"
+275,Atri A.,2023,10.1016/j.heliyon.2023.e13484,CuO,Ephedra alata,aerial,CuSO4·5H2O,,30,,90,,,,,13,"Octahedral, Spherical",,13,1.92,"S. aureus, B. subtilis","+, +",,Disk diffusion,"20.4, 16",
+276,Shu M.,2023,10.1049/mna2.12157,Sn,Foeniculum vulgare,leaf,SnCl2·2H2O,0.1,10,90,80,1,,,,32.49,Spherical,,,,,,,,,
+277,Kebede Urge S.,2023,10.1155/2023/7036247,ZnO,"Zingiber officinale, Allium sativum","root, bulb",Zinc acetate dihydrate,,"5, 5",10,,,,,,,Spherical,,"19.8, 21.94, 23.86",,"P. putida, S. aureus, P. pyogenes, E. coli","-, +, +, -",,Agar well diffusion,"28.67, 15.67, 10.67, 15.3",
+278,Fouda A.,2023,10.3390/jfb14040205,ZnO,Punica granatum,peel,Zn(CH3COO)2·2H2O,0.005,10,90,40,1,120,8,200,25.1,Spherical,,,,"B. subtilis, S. aureus, P. aeruginosa, E. coli","+, +, -, -",,Agar well diffusion,"17.6, 17.3, 24.7, 19.3","12.5, 6.25, 6.25, 6.25"
+279,Haris M.,2023,10.3390/molecules28052091,Fe2O3,Oscillatoria limnetica,whole biomass,FeCl3·6H2O,,,,80,,,,,20,Spherical,,,,"S. aureus, B. subtilis, E. coli, P. aeruginosa","+, +, -, -",,Disk diffusion,"4.0, 2.7, 2.5, 2.3","20, 14, 35, 25"
+280,Gautam D.,2023,10.7717/peerj.15590,Ag,Ocimum sanctum,leaf,AgNO3,0.001,10,90,25,0.5,400,,,55,Spherical,,,,Acinetobacter baumannii,-,10?,Agar well diffusion,15,32
+281,Mushtaq W.,2023,10.3390/plants12112130,ZnO,Viscum album,leaf,Zinc precursor,,,,40,0.5,,,,13.5,Quasi spherical,,"39.82, 8.14",,"E. coli, S. aureus, P. aeruginosa, B. subtilis","-, +, -, +",,Agar well diffusion,"44, 40, 36, 21",
+282,Dhir S.,2023,10.3390/pr11092698,"Ag, CuO",Amomum subulatum,fruit,"AgNO3, CuSO4·5H2O","0.001, 0.05","50, 50","50, 50","25, 70","1, 1","250, 250","7.0, 7.0",,"20.6, 24.7",Spherical,,"23.8, 26.04",,"S. aureus, E. coli, B. subtilis","+, -, +",10?,Agar well diffusion,"18, 19, 18",
+283,Maulana I.,2023,10.1016/j.sajce.2023.07.004,Cu,Annona squamosa,bark,CuSO4,0.1,100,400,25,24,4000,,,13.5,"Granular, Irregular",89.31,,,"S. aureus, E. coli","+, -",,Disk diffusion,,
+284,Hussain S.,2023,10.1080/16583655.2023.2170162,NiO,Acacia nilotica,leaf,Ni(NO3)2·6H2O,0.172,100,50,80,4,,,300,"16, 28",Spherical,,"16, 28",,"S. aureus, P. mirabilis","+, -",,Agar well diffusion,,
+285,Aaga G.F.,2023,10.1016/j.heliyon.2023.e16067,CuO,Moringa stenopetala,seed,Cu(CH3COO)2·H2O,0.05,20,80,60,2,,,400,22,Spherical,,21.4,1.95,,,,,,
+286,Ikhioya I.L.,2023,10.26565/2312-4334-2023-1-20,CuO,Moringa oleifera,leaf,CuSO4·5H2O,0.13,30,50,100,1,,,400,18,Spherical,,18.2,1.82,,,,,,
+287,Kumar M.,2023,10.1111/ijfs.16359,Cu,Nigella sativa,seed,CuSO4,0.05,25,100,80,1,150,,,9,Spherical,,9.2,,"K. pneumoniae, S. aureus, E. coli, P. aeruginosa","-, +, -, -",,Agar well diffusion,"22, 23, 24, 25",
+288,Althubiti A.A.,2023,10.3390/ijms242216512,Ag,Jacobaea maritima,leaf,AgNO3,0.001,10,90,22,72,,,,38,Spherical,,38,,"S. aureus, P. vulgaris, P. aeruginosa, E. coli","+, -, -, -",,Agar well diffusion,"18, 16, 17, 19",
+289,Gurban A.M.,2023,10.3390/ma16124261,Ag,Ganoderma lucidum,mycelium,AgNO3,0.1,40,10,25,168,,,,24,Spherical,,22.5,,"S. aureus, P. aeruginosa, E. coli","+, -, -",,Agar diffusion,"14, 12, 13",
+290,Sidorowicz A.,2024,10.3390/ma17010187,Ag,Haematococcus pluvialis,microalgae supernatant,AgNO3,0.001,5,45,25,24,180,11,,40,Quasi spherical,,35,,E. coli,-,,Disk diffusion,12.5,
+291,Hameed H.,2023,10.3390/mi14050928,ZnO,Spirogyra hyalina,algae,"Zn(CH3COO)2·2H2O, Zn(NO3)2·6H2O",0.02,20,80,70,2,,,,35,Spherical,,32.4,3.42,"S. aureus, E. coli","+, -",,Agar well diffusion,"19, 15",
+292,Mihailovic V.,2023,10.3390/molecules28020808,Ag,"Salvia verticillata, Filipendula ulmaria","aerial, flower",AgNO3,0.001,10,90,25,0.5,,,,60,Spherical,,28.5,,,,,,,
+293,Jaffar S.S.,2023,10.3390/molecules28020907,Ag,Kappaphycus alvarezii,seaweed polysaccharide,AgNO3,0.0025,,,90,2,,,,50,Flower-like,85.87,24.1,,"E. coli, S. aureus","-, +",,Disk diffusion,"15, 14",
+294,Baran M.F.,2023,10.3390/molecules28052310,Ag,Allium cepa,peel,AgNO3,0.005,10,90,25,24,,,,13.25,Spherical,,14.2,,"S. aureus, E. coli, P. aeruginosa","+, -, -",,Broth microdilution,,"16, 32, 32"
+295,Rajeshkumar S.,2023,10.3390/molecules28062818,ZnO,Mangifera indica,seed,Zn(NO3)2,0.1,20,80,60,2,,,,25,Spherical,,23.5,3.38,"B. subtilis, E. coli","+, -",,Agar well diffusion,"17, 16",
+296,Gopinath V.,2023,10.3390/molecules28227499,CuO,Aegle marmelos,leaf,CuSO4,0.001,10,90,25,24,,,,30,Flake-like,,28,,"S. aureus, E. coli","+, -",,Agar well diffusion,"16, 14",
+297,Abdullah J.A.A.,2023,10.3390/polym15193850,Fe3O4,Phoenix dactylifera,fruit,FeCl3·6H2O,0.1,50,50,25,2,,7.5,,15,Spherical,,14.8,,,,,,,
+298,Rama P.,2023,10.1016/j.heliyon.2023.e16277,Ag,Aegle marmelos,leaf,AgNO?,0.001,1,15,25,48,,,,25,Spherical,,24.2,,"E. coli, S. aureus, P. aeruginosa, B. subtilis","-, +, -, +",,Agar well diffusion,"14, 16, 15, 17",
+299,Abdulazeem L.,2023,10.1016/j.heliyon.2023.e19723,Ag,Brassica oleracea var. italica,flower,AgNO?,0.001,10,90,25,0.25,,,,33,Spherical,,,,"P. aeruginosa, S. aureus, K. pneumoniae, E. coli","-, +, -, -",,Agar well diffusion,"15, 17, 14, 16",
+300,Alarif W.M.,2023,10.3390/md21020062,TiO2,"Bostrychia tenella, Carteriospongia foliascens",whole,Titanium (IV) butoxide,,"25, 25","20, 20",50,2,,,500,"22.86, 8.3",Anatase spherical,,"22.86, 8.3",3.10,,,,,,
+301,González-Ballesteros N.,2023,10.3390/md21070397,"Au, Ag",Undaria pinnatifida,whole,"HAuCl?, AgNO?","0.001, 0.001","10, 10","90, 90",25,24,,,,"6.8, 14.1",Spherical,,,,"E. coli, P. aeruginosa, S. aureus","-, -, +",,Broth microdilution,,"25, 50, 25"
+302,Badawi H.,2023,10.3390/microbiolres14040128,NiO,Salvadora persica,root,Ni(NO?)?·6H?O,0.10,20,80,60,2,,,400,32.4,Spherical,,31.6,3.47,"S. epidermidis, E. faecalis, S. aureus, S. pneumoniae, E. coli, E. cloacae, K. pneumoniae, P. aeruginosa","+, +, +, +, -, -, -, -",10?,Agar well diffusion,"20, 24, 22, 18, 20, 31, 23, 19","31.25, 15.6, 31.25, 62.5, 31.25, 15.6, 31.25, 31.25"
+303,Kowalska M.,2023,10.3390/molecules28062762,Ag,Apis mellifera honey,honey,AgNO?,0.005,10,90,25,2,,,,22,Spherical,,21.4,,"S. aureus, E. coli, P. aeruginosa","+, -, -",,Broth microdilution,,"12.5, 25, 25"
+304,Santiago M.,2023,10.4236/msce.2023.112003,TiO2,"Citrus sinensis, Hibiscus rosa-sinensis, Aloe vera","peel, flower, leaf",Titanium (IV) tetrabutoxide,1.0,"20, 20, 20","80, 80, 80",25,2,,,500,18,Spherical anatase,,18.5,,,,,,,
+305,Li D.,2023,10.3390/nano13182558,Ag,Jasminum nudiflorum,flower,AgNO?,0.0025,1.25,1,80,7,,,,15.6,Spherical,,14.8,,Alternaria longipes,,,Broth microdilution,,32
+306,Qureshi A.K.,2023,10.3390/pathogens12101247,Ag,Avena fatua,whole,AgNO?,0.01,100,100,25,3,,,,15,Spherical,,16.2,,Fusarium oxysporum f.sp. lycopersici,,,Broth dilution,,40
+307,Gharari Z.,2023,10.3390/ph16070992,Ag,Scutellaria multicaulis,leaf,AgNO?,0.002,5,95,25,1,,,,18.5,Spherical,,16.8,,"E. coli, S. aureus","-, +",,Disk diffusion,"14, 16",
+308,Rehman G.,2023,10.3390/ph16121677,Ag,Azadirachta indica,seed,AgNO?,0.001,10,90,25,2,,,,28,"Spherical, FCC",,25,,,,,,,
+309,Ndwandwe N.,2023,10.3390/plants12071425,?-Fe2O3,Aspalathus linearis,leaf,FeCl?,0.10,20,80,25,1,,,400,18,Spherical,,17,,,,,,,
+310,Huq M.A.,2023,10.1098/rsos.230796,Ag,Paenibacillus sp. MAHUQ-63,culture supernatant,AgNO?,0.0015,100,100,33,48,180,7.0,,35,Spherical,,31.2,,"Salmonella Enteritidis, Candida albicans","-, +",10?,Disk diffusion,"18.0, 19.5","25.0, 12.5"
+311,Hirnyk S.,2023,10.26565/2312-4334-2023-1-21,Ag,Chelidonium majus,leaf,AgNO?,0.001,10,90,25,1,,8.0,,20,Spherical,,18.2,,"E. coli, S. aureus","-, +",,Agar well diffusion,"15, 17",
+312,Salman S.H.,2023,10.3390/met13020273,Pd,,,Palladium target (99.91% purity),,,3,25.0,,,,,11.0,Spherical,,8.5,,"E. coli, S. aureus","-, +",5×10?,Agar well diffusion,"19.66, 17.66",
+313,Atif M.,2024,10.3390/polym16243463,Hydroxyapatite (HA),Phoenix dactylifera,seed,SBF (Simulated Body Fluid),,,,36.5,672,,7.4,,,Crystalline network,,40.0,,E. coli,-,,Broth dilution,,
+314,Ahmad A.,2023,10.1080/10942912.2023.2238920,Ag,Cinnamomum zeylanicum,bark,AgNO3,0.001,100,900,25,0.33,,,,50,Spherical,,50,,"E. coli, S. aureus, S. typhi","-, +, -",,Agar well diffusion,"25, 17, 19",
+315,Krishnamoorthy K.,2023,10.1016/j.jksus.2023.102955,Ag,Argyreia nervosa,leaf,AgNO3,0.02,5,,25,1,,,,10,Spherical,,,,"E. coli, P. aeruginosa","-, -",,Disk diffusion,"7.8, 10.5",
+316,Elbrolesy A.,2023,10.1007/s10904-023-02744-3,ZnO,Solanum lycopersicum,fruit juice,Zn(NO3)2·6H2O,0.46,140,40,100,,,,600,39,Quasi-spherical,,,,"S. aureus, E. coli","+, -",,Agar well diffusion,"12, 10",
+317,Hasan I.M.A.,2022,10.1007/s11356-022-24199-8,MnO2,Ficus benjamina,leaf,KMnO4,0.316,200,100,70,3,,,,8,Spherical,,5.2,,,,,,,
+318,Chaudhari R.K.,2023,10.1186/s11671-023-03914-5,Ag,Adhatoda vasica,leaf,AgNO3,0.05,7,50,25,0.17,480,3,,11.36,Spherical,,10.84,2.26,,,,,,
+319,Faid A.H.,2022,10.1007/s12247-022-09626-0,Au,Chitosan (Biopolymer),biopolymer,HAuCl4,0.125,10,0.01,100,0.25,,,,18,Spherical,,,,,,,,,
+320,Al-Badwy A.H.,2023,10.1186/s12934-023-02257-1,Ag,Spirulina platensis,polysaccharide,AgNO3,0.1,,,25,24,,,,12.3,Spherical,,,,,,,,,
+321,Pourali P.,2023,10.1007/s13201-023-01871-z,AC-ZnO,Origanum vulgare,leaf,ZnCl2,,,,70,1,500,5,400,20.9,Spherical,,,,,,,,,
+322,Kiran S.,2023,10.1007/s13201-023-02000-6,MgO,Azadirachta indica,leaf,Mg(NO3)2,0.98,5,20,70,,,,,18,Spherical,,18,4.22,,,,,,
+323,Afrouz M.,2023,10.1038/s41598-023-27844-5,Fe3O4,Spinacia oleracea,leaf,"FeCl3·6H2O, FeCl2·4H2O",0.123,15,100,80,0.42,,,,17,Spherical,,18,,,,,,,
+324,Mohammed Ali I.A.,2023,10.1038/s41598-023-29412-3,Ag/AgO,Allium sativum,bulb,AgNO3,0.47,25,25,80,1,600,,,200,Spherical,,30.2,,,,,,,
+325,Mohamed A.,2023,10.1038/s41598-023-31704-7,"Fe3O4, Fe2O3","Syzygium aromaticum, Coffea arabica","flower bud, seed",Fe(NO3)3·9H2O,0.3,15,5,25,10,300,6,550,30,"Rod-like, Pyramidal",,,,"S. aureus, E. coli","+, -",10?,Agar diffusion,"29, 19.5","62.5, 125"
+326,Moosavy M.-H.,2023,10.1038/s41598-023-33632-y,"Au, Ag",Mentha spicata,essential oil,"HAuCl4, AgNO3",0.01,0.5,19,25,24,,,,"19.61, 24.0",Spherical,,,,"E. coli, S. Typhimurium, L. monocytogenes, S. aureus, B. cereus","-, -, +, +, +",10?,Well diffusion,"16.0, 12.33, 15.33, 12.66, 14.0",
+327,Mondal M.S.,2023,10.1038/s41598-023-40668-7,Ag,Eichhornia crassipes,leaf,AgNO3,0.2,30,30,25,1,,,,76.91,Spherical,,47.5,,"S. aureus, E. coli","+, -",,Disc diffusion,"22, 24",
+328,Nzilu D.M.,2023,10.1038/s41598-023-41119-z,CuO,Parthenium hysterophorus,whole,CuSO4,0.01,80,20,25,,,,,59.99,Spherical,,31.58,,,,,,,
+329,Priya M.,2023,10.1038/s41598-023-46002-5,CuO,Morinda citrifolia,leaf,CuSO4·5H2O,0.01,50,100,70,5,,7,,29.2,"Spherical, Cylindrical",,27.5,1.006,"B. subtilis, S. aureus, E. coli","+, +, -",,Well diffusion,"13.6, 13.2, 13.1",
+330,Eldeeb B.A.,2023,10.1038/s41598-023-46287-6,Fe3O4,Citrus sinensis,peel,"FeCl3·6H2O, FeSO4·7H2O",0.3,25,25,25,0.5,,11.5,,22,Spherical,,23.4,,"S. aureus, S. mutans, B. subtilis, E. coli, K. pneumoniae","+, +, +, -, -",,Agar well diffusion,"37.3, 33.3, 30.7, 28.3, 20.7","3, 6.5, 6.5, 12.5, 50"
+331,Abdelrazik M.,2023,10.1186/s43141-023-00547-0,Ag,"Citrus limon, Punica granatum","leaf, peel",AgNO3,0.005,,50,60,0.08,,,,"32, 28",Spherical,,,,"E. coli, E. faecalis, A. baumannii, K. pneumoniae, P. aeruginosa","-, +, -, -, -",,Well diffusion,"11, 15, 12, 13, 16","50, 30"
+332,Yang X.,2023,10.3390/separations10090466,ZnO,Hibiscus cannabinus,leaf,ZnSO4,0.02,20,50,25,5,,8,,70,Flake-like,,,,"E. coli, S. aureus","-, +",10?,Disc diffusion,"27.0, 27.0",450
+333,Sánchez-Pérez D.M.,2023,10.3390/su15043080,ZnO,Larrea tridentata,leaf,Zn(NO3)2·6H2O,0.0015,20,200,70,4,,13,,18,Spherical,,,,,,,,,
+334,Leyu A.M.,2023,10.3390/su15129456,"Ag, Au",Parthenium hysterophorus,aerial,"AgNO3, HAuCl4·3H2O",0.001,10,90,70,1,,10,,"15.9, 8.9",Spherical,,"33.4, 30.5",,"E. coli, S. enterica, E. faecalis, S. aureus","-, -, +, +",10?,Agar well diffusion,"19.7, 10.3, 18.3, 14.7",
+335,Chelliah P.,2023,10.3390/w15050910,Co3O4,Curcuma longa,leaf,Co(NO3)2·6H2O,0.1,10,,25,0.5,750,,,22,Spherical,,26,2.2,"S. aureus, E. coli","+, -",10?,Well diffusion,"14, 11",
+336,Almisbah S.R.E.,2023,10.2166/wst.2023.153,CuO,Hibiscus sabdariffa,leaf,Cu(NO3)2·6H2O,,,,400,0.06,,,400,15,"Jasmine buds, Rod-plate-like",,12.9,,,,,,,
+337,,,,,,,,,,,,,,,,,,,,,,,,,,
+338,,,,,,,,,,,,,,,,,,,,,,,,,,
+339,,,,,,,,,,,,,,,,,,,,,,,,,,
+340,,,,,,,,,,,,,,,,,,,,,,,,,,
+341,,,,,,,,,,,,,,,,,,,,,,,,,,
+342,,,,,,,,,,,,,,,,,,,,,,,,,,
+343,,,,,,,,,,,,,,,,,,,,,,,,,,
+344,,,,,,,,,,,,,,,,,,,,,,,,,,
+345,,,,,,,,,,,,,,,,,,,,,,,,,,
+346,,,,,,,,,,,,,,,,,,,,,,,,,,
+347,,,,,,,,,,,,,,,,,,,,,,,,,,
+348,,,,,,,,,,,,,,,,,,,,,,,,,,
+349,,,,,,,,,,,,,,,,,,,,,,,,,,
+350,,,,,,,,,,,,,,,,,,,,,,,,,,
+351,,,,,,,,,,,,,,,,,,,,,,,,,,
+352,,,,,,,,,,,,,,,,,,,,,,,,,,
+353,,,,,,,,,,,,,,,,,,,,,,,,,,
+354,,,,,,,,,,,,,,,,,,,,,,,,,,
+355,,,,,,,,,,,,,,,,,,,,,,,,,,
+356,,,,,,,,,,,,,,,,,,,,,,,,,,
+357,,,,,,,,,,,,,,,,,,,,,,,,,,
+358,,,,,,,,,,,,,,,,,,,,,,,,,,
+359,,,,,,,,,,,,,,,,,,,,,,,,,,
+360,,,,,,,,,,,,,,,,,,,,,,,,,,
+361,,,,,,,,,,,,,,,,,,,,,,,,,,
+362,,,,,,,,,,,,,,,,,,,,,,,,,,
+363,,,,,,,,,,,,,,,,,,,,,,,,,,
+364,,,,,,,,,,,,,,,,,,,,,,,,,,
+365,,,,,,,,,,,,,,,,,,,,,,,,,,
+366,,,,,,,,,,,,,,,,,,,,,,,,,,
+367,,,,,,,,,,,,,,,,,,,,,,,,,,
+368,,,,,,,,,,,,,,,,,,,,,,,,,,
+369,,,,,,,,,,,,,,,,,,,,,,,,,,
+370,,,,,,,,,,,,,,,,,,,,,,,,,,
+371,,,,,,,,,,,,,,,,,,,,,,,,,,
+372,,,,,,,,,,,,,,,,,,,,,,,,,,
+373,,,,,,,,,,,,,,,,,,,,,,,,,,
+374,,,,,,,,,,,,,,,,,,,,,,,,,,
+375,,,,,,,,,,,,,,,,,,,,,,,,,,
+376,,,,,,,,,,,,,,,,,,,,,,,,,,
+377,,,,,,,,,,,,,,,,,,,,,,,,,,
+378,,,,,,,,,,,,,,,,,,,,,,,,,,
+379,,,,,,,,,,,,,,,,,,,,,,,,,,
+380,,,,,,,,,,,,,,,,,,,,,,,,,,
+381,,,,,,,,,,,,,,,,,,,,,,,,,,
+382,,,,,,,,,,,,,,,,,,,,,,,,,,
+383,,,,,,,,,,,,,,,,,,,,,,,,,,
+384,,,,,,,,,,,,,,,,,,,,,,,,,,
+385,,,,,,,,,,,,,,,,,,,,,,,,,,
+386,,,,,,,,,,,,,,,,,,,,,,,,,,
+387,,,,,,,,,,,,,,,,,,,,,,,,,,
+388,,,,,,,,,,,,,,,,,,,,,,,,,,
+389,,,,,,,,,,,,,,,,,,,,,,,,,,
+390,,,,,,,,,,,,,,,,,,,,,,,,,,
+391,,,,,,,,,,,,,,,,,,,,,,,,,,
+392,,,,,,,,,,,,,,,,,,,,,,,,,,
+393,,,,,,,,,,,,,,,,,,,,,,,,,,
+394,,,,,,,,,,,,,,,,,,,,,,,,,,
+395,,,,,,,,,,,,,,,,,,,,,,,,,,
+396,,,,,,,,,,,,,,,,,,,,,,,,,,
+397,,,,,,,,,,,,,,,,,,,,,,,,,,
+398,,,,,,,,,,,,,,,,,,,,,,,,,,
+399,,,,,,,,,,,,,,,,,,,,,,,,,,
+400,,,,,,,,,,,,,,,,,,,,,,,,,,
+401,,,,,,,,,,,,,,,,,,,,,,,,,,
+402,,,,,,,,,,,,,,,,,,,,,,,,,,
+403,,,,,,,,,,,,,,,,,,,,,,,,,,
+404,,,,,,,,,,,,,,,,,,,,,,,,,,
+405,,,,,,,,,,,,,,,,,,,,,,,,,,
+406,,,,,,,,,,,,,,,,,,,,,,,,,,
+407,,,,,,,,,,,,,,,,,,,,,,,,,,
+408,,,,,,,,,,,,,,,,,,,,,,,,,,
+409,,,,,,,,,,,,,,,,,,,,,,,,,,
+410,,,,,,,,,,,,,,,,,,,,,,,,,,
+411,,,,,,,,,,,,,,,,,,,,,,,,,,
+412,,,,,,,,,,,,,,,,,,,,,,,,,,
+413,,,,,,,,,,,,,,,,,,,,,,,,,,
+414,,,,,,,,,,,,,,,,,,,,,,,,,,
+415,,,,,,,,,,,,,,,,,,,,,,,,,,
+416,,,,,,,,,,,,,,,,,,,,,,,,,,
+417,,,,,,,,,,,,,,,,,,,,,,,,,,
+418,,,,,,,,,,,,,,,,,,,,,,,,,,
+419,,,,,,,,,,,,,,,,,,,,,,,,,,
+420,,,,,,,,,,,,,,,,,,,,,,,,,,
+421,,,,,,,,,,,,,,,,,,,,,,,,,,
+422,,,,,,,,,,,,,,,,,,,,,,,,,,
+423,,,,,,,,,,,,,,,,,,,,,,,,,,
+424,,,,,,,,,,,,,,,,,,,,,,,,,,
+425,,,,,,,,,,,,,,,,,,,,,,,,,,
+426,,,,,,,,,,,,,,,,,,,,,,,,,,
+427,,,,,,,,,,,,,,,,,,,,,,,,,,
+428,,,,,,,,,,,,,,,,,,,,,,,,,,
+429,,,,,,,,,,,,,,,,,,,,,,,,,,
+430,,,,,,,,,,,,,,,,,,,,,,,,,,
+431,,,,,,,,,,,,,,,,,,,,,,,,,,
+432,,,,,,,,,,,,,,,,,,,,,,,,,,
+433,,,,,,,,,,,,,,,,,,,,,,,,,,
+434,,,,,,,,,,,,,,,,,,,,,,,,,,
+435,,,,,,,,,,,,,,,,,,,,,,,,,,
+436,,,,,,,,,,,,,,,,,,,,,,,,,,
+437,,,,,,,,,,,,,,,,,,,,,,,,,,
+438,,,,,,,,,,,,,,,,,,,,,,,,,,
+439,,,,,,,,,,,,,,,,,,,,,,,,,,
+440,,,,,,,,,,,,,,,,,,,,,,,,,,
+441,,,,,,,,,,,,,,,,,,,,,,,,,,
+442,,,,,,,,,,,,,,,,,,,,,,,,,,
+443,,,,,,,,,,,,,,,,,,,,,,,,,,
+444,,,,,,,,,,,,,,,,,,,,,,,,,,
+445,,,,,,,,,,,,,,,,,,,,,,,,,,
+446,,,,,,,,,,,,,,,,,,,,,,,,,,
+447,,,,,,,,,,,,,,,,,,,,,,,,,,
+448,,,,,,,,,,,,,,,,,,,,,,,,,,
